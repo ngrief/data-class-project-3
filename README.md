@@ -2,7 +2,8 @@
 
 # Project Overview and Purpose
 
-# Instructions on how to use and interact with the project
+# Instructions 
+how to use and interact with the project
 
 # Ethical Considerations
 
