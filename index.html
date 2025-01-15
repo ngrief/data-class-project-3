@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Leaflet Map with CSV Data</title>
+    <title>Global Population Density and Migration</title>
 
     <!-- Leaflet CSS-->
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
@@ -14,21 +14,23 @@
     </style>
 
     <!-- Our CSS -->
-    <!-- <link rel="stylesheet" type="text/css" href="static/css/style.css"> -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+     <!-- Include Leaflet.Choropleth Plugin -->
+     <script src="https://unpkg.com/leaflet-choropleth/dist/leaflet-choropleth.js"></script>
+
 </head>
 
 <body>
     
-    <!-- read in CSV file-->
-    <input type="file" id="fileInput" accept=".csv" />
-
     <!-- The div that holds the map -->
     <div id="map"></div>
-
-    <!-- Leaflet JS -->
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     
     <!-- JavaScript -->
+    <script type="text/javascript" src="static/js/choropleth.js"></script>
     <script type="text/javascript" src="static/js/logic.js"></script>
 
 </body>
