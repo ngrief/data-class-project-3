@@ -1,5 +1,6 @@
-// This file runs the markers and the density map (but they appear as markers)
-// It also uses a fetch function for both the markers and choropleth maps
+// This file will use L.geojson to outline countries
+// Only looks at 10 countries geojson
+// Uses a fetch function for both the markers and choropleth maps
 // logic.js uses separate fetch functions (one for markers and one for choropleth)
 
 // Initialize the map
@@ -31,17 +32,24 @@ let myMap = L.map('map', {
   }
   
   // Fetch and process the data
-  fetch('resources/data.json')
+  fetch('resources/top10country.geojson')
     .then(response => response.json())
     .then(data => {
       console.log("Loaded Data:", data);
   
       // Layer for migration markers
       let migrationMarkers = L.layerGroup();
-  
-      data.forEach(entry => {
-        let { latitude, longitude, migration_perc, country, year, pop_density } = entry;
-  
+
+      // Loop through each feature in geoJSON data
+      data.features.forEach(entry => {
+        let coordinates = features.geometry.coordinates;
+        let latitude = coordinates[1];
+        let longitude = coordinates[0];
+        let migration_perc = features.properties.migration_perc;
+        let country = features.properties.country;
+        let year = features.properties.country;
+
+         
         if (!latitude || !longitude) {
           console.warn("Missing coordinates for:", entry);
           return;
@@ -66,38 +74,38 @@ let myMap = L.map('map', {
   
       migrationMarkers.addTo(myMap);
   
-      // Add a population density layer
-      let populationLayer = L.layerGroup();
+    //   // Add a population density layer
+    //   let populationLayer = L.layerGroup();
   
-      data.forEach(entry => {
-        let { latitude, longitude, pop_density, country, year } = entry;
+    //   data.forEach(entry => {
+    //     let { latitude, longitude, pop_density, country, year } = entry;
   
-        if (!latitude || !longitude) {
-          return;
-        }
+    //     if (!latitude || !longitude) {
+    //       return;
+    //     }
   
-        // Add population density markers
-        let densityMarker = L.circle([latitude, longitude], {
-          radius: 20000, // Fixed radius for visualization
-          fillColor: getColor(pop_density),
-          color: "white",
-          weight: 1,
-          fillOpacity: 0.7
-        }).bindPopup(
-          `<b>Country:</b> ${country}<br>` +
-          `<b>Year:</b> ${year}<br>` +
-          `<b>Population Density:</b> ${pop_density}`
-        );
+    //     // Add population density markers
+    //     let densityMarker = L.circle([latitude, longitude], {
+    //       radius: 20000, // Fixed radius for visualization
+    //       fillColor: getColor(pop_density),
+    //       color: "white",
+    //       weight: 1,
+    //       fillOpacity: 0.7
+    //     }).bindPopup(
+    //       `<b>Country:</b> ${country}<br>` +
+    //       `<b>Year:</b> ${year}<br>` +
+    //       `<b>Population Density:</b> ${pop_density}`
+    //     );
   
-        populationLayer.addLayer(densityMarker);
-      });
+    //     populationLayer.addLayer(densityMarker);
+    //   });
   
-      populationLayer.addTo(myMap);
+    //   populationLayer.addTo(myMap);
   
       // Add layer control
       L.control.layers(null, {
-        "Migration Markers": migrationMarkers,
-        "Population Density": populationLayer
+        "Migration Markers": migrationMarkers
+        // "Population Density": populationLayer
       }).addTo(myMap);
     })
     .catch(error => console.error("Error loading data:", error));
