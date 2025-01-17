@@ -1,3 +1,6 @@
+// This file runs the markers but not the density map
+// It also uses a fetch function for both the markers and choropleth maps
+
 // Initialize the map
 let myMap = L.map('map', {
     center: [0, 0],
