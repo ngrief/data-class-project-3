@@ -14,6 +14,17 @@
       height: 600px; /* Adjust the height as needed */
       width: 100%;
     }
+
+        #yearSelect {
+      font-size: 28px; /* Change this value to make the text larger or smaller */
+      font-weight: bold; /* Optional: make the text bold */
+    }
+
+      label[for="yearSelect"] {
+        font-size: 28px;
+        font-weight: bold;
+        margin-right: 10px;
+      }
     </style>
 
     <!-- Our CSS -->
@@ -37,7 +48,17 @@
 </head>
 
 <body>
-    
+    <!-- Add dropdown -->
+    <label for="yearSelect">Select Year:</label>
+    <select id="yearSelect">
+      <option value="1962">1962</option>
+      <option value="1977">1977</option>
+      <option value="1987">1987</option>
+      <option value="1997">1997</option>
+      <option value="2007">2007</option>
+      <option value="2017">2017</option>
+    </select>
+
     <!-- The div that holds the map -->
     <div id="map"></div>
    
@@ -45,7 +66,8 @@
     <!-- <script type="text/javascript" src="static/js/choropleth.js"></script> -->
     <!-- <script type="text/javascript" src="static/js/logic.js"></script> -->
     <!-- <script type="text/javascript" src="static/js/logicv2.js"></script> -->
-    <script type="text/javascript" src="static/js/logicv3.js"></script>
+    <script type="text/javascript"= src="static/js/logicv3.js"></script>
+    <!-- <script type="text/javascript" src="static/js/logicv4.js"></script> -->
 
 </body>
 </html>
