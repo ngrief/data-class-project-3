@@ -74,61 +74,89 @@ fetch('resources/data_files/migration_data.json')
 // Load population density data
 let populationDensityData = "resources/data_files/top10country_population.geojson";
 
-// Function to determine color for population density
-function chooseColor(pop_density) {
-  if (pop_density == undefined || pop_density === null) return "#FFFFFF";
-  return pop_density > 700 ? "#800026" :
-  pop_density > 500 ? "#BD0026" :
-  pop_density > 300 ? "#E31A1C" :
-  pop_density > 100  ? "#FC4E2A" :
-  pop_density > 75  ? "#FD8D3C" :
-  pop_density > 50  ? "#FEB24C" :
-  pop_density > 30   ? "#FED976" :
-  "#FFEDA0";
+// Function to determine the color based on population density
+function getColor(density) {
+  return density > 500 ? '#800026' :
+         density > 300 ? '#BD0026' :
+         density > 200 ? '#E31A1C' :
+         density > 100 ? '#FC4E2A' :
+         density > 50  ? '#FD8D3C' :
+         density > 20  ? '#FEB24C' :
+         density > 10  ? '#FED976' :
+                         '#FFEDA0';
 }
 
-// Specify target year
+// function to style the polygon
+function style(feature) {
+  console.log(feature.properties.pop_density); // check values
+  return {
+    fillColor: getColor(feature.properties.pop_density),
+    weight: 2,
+    opacity: 1,
+    color: 'white',
+    dashArray: '3',
+    fillOpacity: .7
+  };
+}
+
+// Specify target year 
 const targetYear = "2017";
 
-//Get GeoJSON data
-d3.json(populationDensityData).then(function(data) {
-  console.log(data);
+// Function to load population density data for a specific year
+function loadPopulationDensity(year) {
+
+  //Get GeoJSON data
+  d3.json(populationDensityData).then(function(data) {
+    console.log(data);
 
   // Filter for features
   const filteredData = {
     "type": "FeatureCollection",
     "features": data.features
-    .filter(feature => feature.properties.year === targetYear)
+    .filter(feature => feature.properties.year === year)
   };
 
-  console.log(filteredData.features);
+  console.log(filteredData.features.length);
+
+  // Remove existing population layer if it exists
+  if (populationLayer) {
+    myMap.removeLayer(populationLayer);
+    delete overlayMaps['Population Density in ' + (targetYear === year ? '2017' : targetYear)];
+  }
 
   // Create a GeoJSON layer with retrieved data
-  let populationGeoJsonLayer = L.geoJson(filteredData, {
-    style: function(feature) {
-      return {
-        color: "red",
-        fillColor: chooseColor(feature.properties.pop_density),
-        fillOpacity: .5,
-        weight: 1.5
-      };
-    },
-  
+ populationLayer = L.geoJson(filteredData, {
+    style: style,
     onEachFeature: function(feature, layer) {
       layer.bindPopup(`${feature.properties.country}: ${feature.properties.pop_density} people/km²`);
-    }
-  }).addTo(populationLayer);
+      }
+    
+  }).addTo(myMap);
 
-  // Add populationLayer to map
-  populationLayer.addTo(myMap);
+  // Update overlayMaps for layer control
+  overlayMaps['Population Density in ' + year] = populationLayer;
+
+  // Re-add the layer control to the map
+  L.control.layers(baseMaps, overlayMaps).addTo(myMap);
 
 }).catch(function(error) {
   console.error("Error loading population density data:", error);
 });
 
+}
+
+// initial load for the default year
+loadPopulationDensity(targetYear);
+
+// Add event listener for year selection
+document.getElementById('yearSelect').addEventListener('change', function() {
+  const selectedYear = this.value;
+  loadPopulationDensity(selectedYear);
+});
+
 // Base maps definition
 let baseMaps = {
-  "Street Map": L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  "Base Map": L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap contributors'
   })
 };
@@ -136,7 +164,7 @@ let baseMaps = {
 // Overlays that can be toggled on or off
 let overlayMaps = {
   'Migration': migrationLayer,
-  'Population Density in  2017': populationLayer
+  'Population Density in 2017': populationLayer
 };
 
 // Pass our map layers into our layer control.
