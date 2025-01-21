@@ -2,7 +2,6 @@
 
 Team Members:
 - Sezer Bozoglan
-- Brian Buxton
 - Hannah Miles-Kingrey
 - Nathaniel Trief
 
