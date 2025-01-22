@@ -41,6 +41,9 @@ Note: Our original dataset did not multiply the migration percentage by 1,000 (t
 4. For population density data, use the dropdown menu to select every 10 years from 1967-2017.
 
 <ins> Net Migration Charts </ins>
+1. Clone the repo.
+2. Open index2.html and logicv5.js
+3. OR open [GitHub Pages Link](Link name here)
 
 # Ethical Considerations
 The World Bank terms of use allow for copying, distributing, adapting, displaying or including their data for commercial and noncommercial use at no cost under a Creative Commons Attribution 4.0 International License. Certain agreements are expected, including, clear attribution to World Bank and particular dataset name or source (if known).
