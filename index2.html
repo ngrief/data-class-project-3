@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Line Chart with Chart.js</title>
+    <title>Net Migration Line Chart</title>
 
-    <!-- Link to the CSS file for styling -->
+    <!-- Link to CSS file for styling -->
     <link rel="stylesheet" href="static2/css/style.css">
 
     <!-- Include Chart.js library from CDN -->
@@ -14,23 +14,28 @@
 <body>
     <!-- Header section with a title -->
     <header>
-        <h1>Migration Data Line Chart</h1>
+        <h1>Net Migration Visualization</h1>
     </header>
 
-    <!-- Main content section -->
+    <!-- Main content section with canvas for chart rendering and country key -->
     <main>
         <section>
-            <!-- Canvas element where the chart will be rendered -->
-            <canvas id="myLineChart" width="600" height="400"></canvas>
+            <div id="chart-container">
+                <canvas id="myLineChart" width="600" height="400"></canvas>
+            </div>
+            <div id="country-key">
+                <h2>Country Key</h2>
+                <ul id="country-list"></ul>
+            </div>
         </section>
     </main>
 
-    <!-- Footer section with copyright information -->
+    <!-- Footer section -->
     <footer>
-        <p>&copy; 2025 Migration Data Visualization</p>
+        <p>&copy; 2025 Net Migration Data Visualization</p>
     </footer>
 
-    <!-- Link to the custom JavaScript file for logic -->
+    <!-- Link to the JavaScript logic file -->
     <script type="text/javascript" src="static2/js/logicv5.js"></script>
 </body>
 </html>

@@ -7,6 +7,29 @@ function getUniqueColor(index) {
     return colors[index % colors.length];
 }
 
+// Populate the country key dynamically and add interactivity
+function populateCountryKey(countries, datasets, chart) {
+    const countryList = document.getElementById('country-list');
+    countries.forEach((country, index) => {
+        const listItem = document.createElement('li');
+        listItem.style.color = datasets[index].borderColor;
+        listItem.style.cursor = 'pointer';
+        listItem.textContent = country;
+
+        // Add click event to toggle visibility
+        listItem.addEventListener('click', () => {
+            const meta = chart.getDatasetMeta(index);
+            meta.hidden = !meta.hidden; // Toggle visibility
+            chart.update();
+
+            // Update the text decoration to indicate hidden state
+            listItem.style.textDecoration = meta.hidden ? 'line-through' : 'none';
+        });
+
+        countryList.appendChild(listItem);
+    });
+}
+
 // Fetch and render the line chart using the updated file structure
 fetch('Resources/data_files/migration_data.json')
     .then(response => {
@@ -20,10 +43,12 @@ fetch('Resources/data_files/migration_data.json')
 
         // Extract data for the chart
         const labels = [...new Set(data.map(item => item.year))].sort((a, b) => a - b);
+        const countries = [];
         const datasets = Object.entries(
             data.reduce((acc, item) => {
                 if (!acc[item.country]) {
                     acc[item.country] = { years: [], values: [] };
+                    countries.push(item.country);
                 }
                 acc[item.country].years.push(item.year);
                 acc[item.country].values.push(item.net_migration);
@@ -41,7 +66,7 @@ fetch('Resources/data_files/migration_data.json')
         }));
 
         // Create the chart
-        new Chart(ctx, {
+        const chart = new Chart(ctx, {
             type: 'line',
             data: {
                 labels: labels,
@@ -71,5 +96,8 @@ fetch('Resources/data_files/migration_data.json')
                 }
             }
         });
+
+        // Populate the country key with interactivity
+        populateCountryKey(countries, datasets, chart);
     })
     .catch(error => console.error('Error fetching or rendering data:', error));
