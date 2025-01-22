@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Net Migration Line Chart</title>
+    <title>Net Migration and Population Density Charts</title>
 
     <!-- Link to CSS file for styling -->
     <link rel="stylesheet" href="static2/css/style.css">
@@ -14,28 +14,39 @@
 <body>
     <!-- Header section with a title -->
     <header>
-        <h1>Net Migration Visualization</h1>
+        <h1>Net Migration and Population Density Visualization</h1>
     </header>
+    <div id="universal-country-key">
+        <h2>Universal Country Key</h2>
+        <ul id="universal-country-list"></ul>
+    </div>
+    <div id="universal-country-key">
+        <h2>Net Migration Over Time</h2>
+        <ul id="universal-country-list"></ul>
+    </div>
 
     <!-- Main content section with canvas for chart rendering and country key -->
     <main>
         <section>
             <div id="chart-container">
-                <canvas id="myLineChart" width="600" height="400"></canvas>
+                <canvas id="netMigrationChart" width="600" height="400"></canvas>
             </div>
-            <div id="country-key">
-                <h2>Country Key</h2>
-                <ul id="country-list"></ul>
+            
+            <div id="chart-container">
+                <h2>Population Density Over Time</h2>
+                <canvas id="populationDensityChart" width="600" height="400"></canvas>
             </div>
+            
         </section>
     </main>
 
     <!-- Footer section -->
     <footer>
-        <p>&copy; 2025 Net Migration Data Visualization</p>
+        <p>&copy; 2025 Net Migration and Population Density Visualization by Nathaniel Trief</p>
     </footer>
 
     <!-- Link to the JavaScript logic file -->
     <script type="text/javascript" src="static2/js/logicv5.js"></script>
 </body>
 </html>
+df 
