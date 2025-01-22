@@ -10,7 +10,8 @@ Team Members:
 ## Research Question and Terminology
 *Is there a relationship between the population density of a country and its migration trends?*
 
-**Net Migration Rate** is calculated by dividing the number of people.
+**Net Migration Rate** is "[t]he difference between the number of migrants entering and those leaving a country in a year, per 1,000 midyear population. May also be expressed in percent. A positive figure is known as a net immigration rate and a negative figure as a net emigration rate." [Census.gov](https://www.census.gov/glossary/?term=Net+migration+rate)
+
 - A formula for calculating the net migration rate is:
 - N = (I - E) / M X 1,000
   - N = Net migration rate
