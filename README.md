@@ -7,17 +7,40 @@ Team Members:
 
 
 # Project Overview and Purpose
-## Methodology
-- Libraries/Tools/Resources
-- Data ETL / Database
+## Research Question and Terminology
+Is there a relationship between the population density of a country and its migration trends?
+
+**Net Migration Rate** is calculated by dividing the number of people.
+- A formula for calculating the net migration rate is:
+- N = (I - E) / M X 1,000
+  - N = Net migration rate
+  - I = Number of immigrants entering the area
+  - E = Number of emigrants leaving the area
+  - M = Mid-year population
+    
+Note: Our original dataset did not multiply the migration percentage by 1,000 (to reflect per 1,000 people) so that was a step added to the JavaScript.
+
+**Population Density** is how many people live in a given area.
+
+## Methodology and Tools
+- JavaScript, Leaflet, HTML, CSS
+- ETL: CSV, MongoDB
 
 ## Results
 - Visualizations
 - Dashboards
 
 # Instructions 
-how to use and interact with the project
+<ins>Leaflet Map: Global Population and Migration </ins>
+1. Clone the repo.
+2. Open index.html and logicv3.js.
+3. For migration data, click on various ring markers to show net migration rates for a given country.
+4. For population density data, use the dropdown menu to select every 10 years from 1967-2017.
 
 # Ethical Considerations
+The World Bank terms of use allow for copying, distributing, adapting, displaying or including their data for commercial and noncommercial use at no cost under a Creative Commons Attribution 4.0 International License.
+Certain agreements are expected, including, clear attribution to World Bank and particular dataset name or source (if known).
+
 
 # References and Attributions
+-https://en.wikipedia.org/wiki/Net_migration_rate#:~:text=The%20net%20migration%20rate%20is,positive%20net%20migration%20rate%20occurs. 
