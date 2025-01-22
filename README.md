@@ -27,7 +27,12 @@ Note: Our original dataset did not multiply the migration percentage by 1,000 (t
 
 ## Methodology and Tools
 - JavaScript, Leaflet, HTML, CSS, Chart.js
-- ETL: CSV, MongoDB
+- ETL:
+  1. Downloaded and cleaned CSV to show ten countries with the highest rates of migration in 2020.
+  2. Created JSON and GeoJSON files for migration percentage and population density.
+  3. Created JavaScript and HTML files to run a Leaflet map.
+  4. Used Chart.js to create line charts of net migration data.
+  5. Loaded into MongoDB
 
 ## Results
 - Visualizations
