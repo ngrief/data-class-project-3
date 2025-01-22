@@ -31,7 +31,7 @@ let myMap = L.map('map', {
   }
   
   // Fetch and process the data
-  fetch('resources/data.json')
+  fetch('resources/data_files/migration_data.json')
     .then(response => response.json())
     .then(data => {
       console.log("Loaded Data:", data);

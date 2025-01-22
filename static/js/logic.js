@@ -55,7 +55,7 @@ function markerSize(migrationPercentage) {
       migrationMarkers.addTo(myMap);
       
       // Load the local GeoJSON data for population density
-      fetch('resources/data.json')
+      fetch('resources/data_files/migration_data.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
