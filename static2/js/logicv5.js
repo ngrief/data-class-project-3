@@ -36,7 +36,7 @@ function populateUniversalCountryKey(countries, datasets, charts) {
 }
 
 // Fetch and render the charts using the updated file structure
-fetch('Resources/data_files/migration_data.json')
+fetch('static2/data/migration_data.json')
     .then(response => {
         if (!response.ok) {
             throw new Error(`HTTP error! Status: ${response.status}`);
