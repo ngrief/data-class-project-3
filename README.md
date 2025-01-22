@@ -8,7 +8,7 @@ Team Members:
 
 # Project Overview and Purpose
 ## Research Question and Terminology
-Is there a relationship between the population density of a country and its migration trends?
+*Is there a relationship between the population density of a country and its migration trends?*
 
 **Net Migration Rate** is calculated by dividing the number of people.
 - A formula for calculating the net migration rate is:
@@ -31,15 +31,16 @@ Note: Our original dataset did not multiply the migration percentage by 1,000 (t
 - Dashboards
 
 # Instructions 
-<ins>Leaflet Map: Global Population and Migration </ins>
+<ins> Leaflet Map: Global Population and Migration </ins>
 1. Clone the repo.
 2. Open index.html and logicv3.js.
 3. For migration data, click on various ring markers to show net migration rates for a given country.
 4. For population density data, use the dropdown menu to select every 10 years from 1967-2017.
 
+<ins> Net Migration Charts </ins>
+
 # Ethical Considerations
-The World Bank terms of use allow for copying, distributing, adapting, displaying or including their data for commercial and noncommercial use at no cost under a Creative Commons Attribution 4.0 International License.
-Certain agreements are expected, including, clear attribution to World Bank and particular dataset name or source (if known).
+The World Bank terms of use allow for copying, distributing, adapting, displaying or including their data for commercial and noncommercial use at no cost under a Creative Commons Attribution 4.0 International License. Certain agreements are expected, including, clear attribution to World Bank and particular dataset name or source (if known).
 
 
 # References and Attributions
