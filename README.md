@@ -24,7 +24,7 @@ Note: Our original dataset did not multiply the migration percentage by 1,000 (t
 **Population Density** is how many people live in a given area.
 
 ## Methodology and Tools
-- JavaScript, Leaflet, HTML, CSS
+- JavaScript, Leaflet, HTML, CSS, Chart.js
 - ETL: CSV, MongoDB
 
 ## Results
