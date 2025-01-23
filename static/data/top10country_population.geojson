@@ -1,0 +1,2652 @@
+{
+    "type": "FeatureCollection",
+    "name": "top10country",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "year": "2017",
+                "population": "159670593.0",
+                "pop_density": "1226.63127448721",
+                "net_migration": "-1847503.0",
+                "migration_perc": "-0.0115707154666858",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IDA",
+                "capitalCity": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4113,
+                    23.7055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "year": "2012",
+                "population": "151007807.0",
+                "pop_density": "1160.0814857494",
+                "net_migration": "-2306839.0",
+                "migration_perc": "-0.0152762896556732",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IDA",
+                "capitalCity": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4113,
+                    23.7055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "year": "2007",
+                "population": "142660376.0",
+                "pop_density": "1095.95433663671",
+                "net_migration": "-3254778.0",
+                "migration_perc": "-0.0228148704725129",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IDA",
+                "capitalCity": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4113,
+                    23.7055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "year": "2002",
+                "population": "132478086.0",
+                "pop_density": "1017.73132058078",
+                "net_migration": "-1492537.0",
+                "migration_perc": "-0.0112662935060822",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IDA",
+                "capitalCity": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4113,
+                    23.7055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "year": "1997",
+                "population": "120160564.0",
+                "pop_density": "923.104893600676",
+                "net_migration": "-719899.0",
+                "migration_perc": "-0.0059911419856517",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IDA",
+                "capitalCity": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4113,
+                    23.7055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "year": "1992",
+                "population": "107983704.0",
+                "pop_density": "829.559068909887",
+                "net_migration": "-813794.0",
+                "migration_perc": "-0.0075362667685487",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IDA",
+                "capitalCity": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4113,
+                    23.7055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "year": "1987",
+                "population": "95671163.0",
+                "pop_density": "734.970907275102",
+                "net_migration": "-219363.0",
+                "migration_perc": "-0.0022928852657513",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IDA",
+                "capitalCity": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4113,
+                    23.7055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "year": "1982",
+                "population": "83932127.0",
+                "pop_density": "644.788561112391",
+                "net_migration": "-793826.0",
+                "migration_perc": "-0.0094579516613465",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IDA",
+                "capitalCity": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4113,
+                    23.7055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "year": "1977",
+                "population": "73463584.0",
+                "pop_density": "564.366474610125",
+                "net_migration": "-1137344.0",
+                "migration_perc": "-0.0154817385440928",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IDA",
+                "capitalCity": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4113,
+                    23.7055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "year": "1972",
+                "population": "66625705.0",
+                "pop_density": "511.83609894753",
+                "net_migration": "-3045287.0",
+                "migration_perc": "-0.0457073887623403",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IDA",
+                "capitalCity": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4113,
+                    23.7055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "year": "1967",
+                "population": "59034249.0",
+                "pop_density": "453.516547591611",
+                "net_migration": "-161822.0",
+                "migration_perc": "-0.0027411545457281",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IDA",
+                "capitalCity": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4113,
+                    23.7055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Bangladesh",
+                "year": "1962",
+                "population": "50752157.0",
+                "pop_density": "389.891349773373",
+                "net_migration": "-142378.0",
+                "migration_perc": "-0.0028053585978621",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IDA",
+                "capitalCity": "Dhaka"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.4113,
+                    23.7055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "year": "2017",
+                "population": "1386395000.0",
+                "pop_density": "147.674050750889",
+                "net_migration": "-1741996.0",
+                "migration_perc": "-0.0012564932793323",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.286,
+                    40.0495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "year": "2012",
+                "population": "1350695000.0",
+                "pop_density": "143.871389770868",
+                "net_migration": "-1552209.0",
+                "migration_perc": "-0.0011491928229541",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.286,
+                    40.0495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "year": "2007",
+                "population": "1317885000.0",
+                "pop_density": "140.376590666872",
+                "net_migration": "-2178385.0",
+                "migration_perc": "-0.0016529401275528",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.286,
+                    40.0495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "year": "2002",
+                "population": "1280400000.0",
+                "pop_density": "136.383780699482",
+                "net_migration": "-1965578.0",
+                "migration_perc": "-0.0015351280849734",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.286,
+                    40.0495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "year": "1997",
+                "population": "1230075000.0",
+                "pop_density": "131.023100200996",
+                "net_migration": "-382999.0",
+                "migration_perc": "-0.0003113623153059",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.286,
+                    40.0495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "year": "1992",
+                "population": "1164970000.0",
+                "pop_density": "124.088088834447",
+                "net_migration": "-779982.0",
+                "migration_perc": "-0.0006695296874597",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.286,
+                    40.0495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "year": "1987",
+                "population": "1084035000.0",
+                "pop_density": "115.467206348361",
+                "net_migration": "-431651.0",
+                "migration_perc": "-0.0003981891728588",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.286,
+                    40.0495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "year": "1982",
+                "population": "1008630000.0",
+                "pop_density": "107.435358027321",
+                "net_migration": "-200000.0",
+                "migration_perc": "-0.0001982887679327",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.286,
+                    40.0495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "year": "1977",
+                "population": "943455000.0",
+                "pop_density": "100.493169653556",
+                "net_migration": "-47004.0",
+                "migration_perc": "-4.982113614321828e-05",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.286,
+                    40.0495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "year": "1972",
+                "population": "862030000.0",
+                "pop_density": "91.8200942667696",
+                "net_migration": "-1105479.0",
+                "migration_perc": "-0.0012824136050949",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.286,
+                    40.0495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "year": "1967",
+                "population": "754550000.0",
+                "pop_density": "80.3717412723351",
+                "net_migration": "-160002.0",
+                "migration_perc": "-0.0002120495659664",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.286,
+                    40.0495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "China",
+                "year": "1962",
+                "population": "665770000.0",
+                "pop_density": "70.9152397944239",
+                "net_migration": "-1125727.0",
+                "migration_perc": "-0.001690864713039",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Beijing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.286,
+                    40.0495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "year": "2017",
+                "population": "1338658835.0",
+                "pop_density": "450.243285831043",
+                "net_migration": "-2663434.0",
+                "migration_perc": "-0.0019896286718938",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "New Delhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.225,
+                    28.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "year": "2012",
+                "population": "1265782790.0",
+                "pop_density": "425.732223638583",
+                "net_migration": "-2350075.0",
+                "migration_perc": "-0.0018566179115138",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "New Delhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.225,
+                    28.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "year": "2007",
+                "population": "1183209472.0",
+                "pop_density": "397.959589531782",
+                "net_migration": "-2655844.0",
+                "migration_perc": "-0.0022446101580904",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "New Delhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.225,
+                    28.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "year": "2002",
+                "population": "1093317189.0",
+                "pop_density": "367.725301443904",
+                "net_migration": "-1888986.0",
+                "migration_perc": "-0.0017277566098889",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "New Delhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.225,
+                    28.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "year": "1997",
+                "population": "1000900030.0",
+                "pop_density": "336.641798875955",
+                "net_migration": "-682569.0",
+                "migration_perc": "-0.0006819552198434",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "New Delhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.225,
+                    28.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "year": "1992",
+                "population": "909307016.0",
+                "pop_density": "305.835488482068",
+                "net_migration": "-552948.0",
+                "migration_perc": "-0.0006080982443447",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "New Delhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.225,
+                    28.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "year": "1987",
+                "population": "819682102.0",
+                "pop_density": "275.691127038635",
+                "net_migration": "45150.0",
+                "migration_perc": "5.508232995430221e-05",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "New Delhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.225,
+                    28.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "year": "1982",
+                "population": "732239504.0",
+                "pop_density": "246.280763758791",
+                "net_migration": "579708.0",
+                "migration_perc": "0.0007916917850419",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "New Delhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.225,
+                    28.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "year": "1977",
+                "population": "652408776.0",
+                "pop_density": "219.430569859309",
+                "net_migration": "1111236.0",
+                "migration_perc": "0.0017032818087045",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "New Delhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.225,
+                    28.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "year": "1972",
+                "population": "581087256.0",
+                "pop_density": "195.442355180799",
+                "net_migration": "2106041.0",
+                "migration_perc": "0.0036243111137856",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "New Delhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.225,
+                    28.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "year": "1967",
+                "population": "520400576.0",
+                "pop_density": "175.031052842233",
+                "net_migration": "-342846.0",
+                "migration_perc": "-0.0006588117227602",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "New Delhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.225,
+                    28.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "India",
+                "year": "1962",
+                "population": "469077190.0",
+                "pop_density": "157.768992227204",
+                "net_migration": "-85391.0",
+                "migration_perc": "-0.0001820404014955",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "New Delhi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.225,
+                    28.6353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "year": "2017",
+                "population": "124777324.0",
+                "pop_density": "64.1875171686515",
+                "net_migration": "-300000.0",
+                "migration_perc": "-0.0024042830089864",
+                "region": "Latin America & Caribbean ",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Mexico City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1276,
+                    19.427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "year": "2012",
+                "population": "117274155.0",
+                "pop_density": "60.3277630597495",
+                "net_migration": "-422477.0",
+                "migration_perc": "-0.0036024731962468",
+                "region": "Latin America & Caribbean ",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Mexico City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1276,
+                    19.427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "year": "2007",
+                "population": "109170502.0",
+                "pop_density": "56.1591100594151",
+                "net_migration": "-562404.0",
+                "migration_perc": "-0.0051516113757542",
+                "region": "Latin America & Caribbean ",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Mexico City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1276,
+                    19.427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "year": "2002",
+                "population": "101684758.0",
+                "pop_density": "52.3083196584274",
+                "net_migration": "-2206114.0",
+                "migration_perc": "-0.0216956212847553",
+                "region": "Latin America & Caribbean ",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Mexico City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1276,
+                    19.427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "year": "1997",
+                "population": "94611002.0",
+                "pop_density": "48.6694626919417",
+                "net_migration": "-2296470.0",
+                "migration_perc": "-0.0242727584684073",
+                "region": "Latin America & Caribbean ",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Mexico City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1276,
+                    19.427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "year": "1992",
+                "population": "87075138.0",
+                "pop_density": "44.7928897348183",
+                "net_migration": "-2018533.0",
+                "migration_perc": "-0.0231815079064244",
+                "region": "Latin America & Caribbean ",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Mexico City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1276,
+                    19.427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "year": "1987",
+                "population": "79200081.0",
+                "pop_density": "40.741830293989",
+                "net_migration": "-1835537.0",
+                "migration_perc": "-0.0231759485195476",
+                "region": "Latin America & Caribbean ",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Mexico City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1276,
+                    19.427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "year": "1982",
+                "population": "71058654.0",
+                "pop_density": "36.5537457239127",
+                "net_migration": "-1273198.0",
+                "migration_perc": "-0.0179175642702154",
+                "region": "Latin America & Caribbean ",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Mexico City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1276,
+                    19.427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "year": "1977",
+                "population": "62869903.0",
+                "pop_density": "32.341316906299",
+                "net_migration": "-1253817.0",
+                "migration_perc": "-0.0199430401538873",
+                "region": "Latin America & Caribbean ",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Mexico City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1276,
+                    19.427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "year": "1972",
+                "population": "54689943.0",
+                "pop_density": "28.1334103243396",
+                "net_migration": "-920380.0",
+                "migration_perc": "-0.0168290539267886",
+                "region": "Latin America & Caribbean ",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Mexico City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1276,
+                    19.427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "year": "1967",
+                "population": "46956208.0",
+                "pop_density": "24.1550492553821",
+                "net_migration": "-616085.0",
+                "migration_perc": "-0.0131204163675226",
+                "region": "Latin America & Caribbean ",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Mexico City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1276,
+                    19.427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Mexico",
+                "year": "1962",
+                "population": "40195319.0",
+                "pop_density": "20.6771362432161",
+                "net_migration": "-409085.0",
+                "migration_perc": "-0.010177428869267",
+                "region": "Latin America & Caribbean ",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Mexico City"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1276,
+                    19.427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "year": "2017",
+                "population": "207896686.0",
+                "pop_density": "269.687481838937",
+                "net_migration": "-1166895.0",
+                "migration_perc": "-0.0056128600337573",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "Blend",
+                "capitalCity": "Islamabad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8,
+                    30.5167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "year": "2012",
+                "population": "187281475.0",
+                "pop_density": "242.945043327107",
+                "net_migration": "-1079167.0",
+                "migration_perc": "-0.0057622730705212",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "Blend",
+                "capitalCity": "Islamabad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8,
+                    30.5167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "year": "2007",
+                "population": "167808105.0",
+                "pop_density": "217.683822384807",
+                "net_migration": "-339805.0",
+                "migration_perc": "-0.0020249617859637",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "Blend",
+                "capitalCity": "Islamabad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8,
+                    30.5167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "year": "2002",
+                "population": "149549700.0",
+                "pop_density": "193.998676836862",
+                "net_migration": "-650182.0",
+                "migration_perc": "-0.0043475981563319",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "Blend",
+                "capitalCity": "Islamabad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8,
+                    30.5167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "year": "1997",
+                "population": "131057431.0",
+                "pop_density": "170.010158520133",
+                "net_migration": "470909.0",
+                "migration_perc": "0.0035931499374499",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "Blend",
+                "capitalCity": "Islamabad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8,
+                    30.5167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "year": "1992",
+                "population": "113911126.0",
+                "pop_density": "147.767649958489",
+                "net_migration": "-1023387.0",
+                "migration_perc": "-0.0089840829068795",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "Blend",
+                "capitalCity": "Islamabad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8,
+                    30.5167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "year": "1987",
+                "population": "98285755.0",
+                "pop_density": "127.498125518888",
+                "net_migration": "139790.0",
+                "migration_perc": "0.0014222813875723",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "Blend",
+                "capitalCity": "Islamabad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8,
+                    30.5167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "year": "1982",
+                "population": "83431605.0",
+                "pop_density": "108.229043430884",
+                "net_migration": "1387118.0",
+                "migration_perc": "0.0166258098474792",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "Blend",
+                "capitalCity": "Islamabad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8,
+                    30.5167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "year": "1977",
+                "population": "70958169.0",
+                "pop_density": "92.0482682129514",
+                "net_migration": "672203.0",
+                "migration_perc": "0.0094732292204439",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "Blend",
+                "capitalCity": "Islamabad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8,
+                    30.5167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "year": "1972",
+                "population": "61381987.0",
+                "pop_density": "79.6258652449149",
+                "net_migration": "-138106.0",
+                "migration_perc": "-0.0022499434565388",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "Blend",
+                "capitalCity": "Islamabad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8,
+                    30.5167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "year": "1967",
+                "population": "53655789.0",
+                "pop_density": "69.6032962328767",
+                "net_migration": "-209978.0",
+                "migration_perc": "-0.0039134267506531",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "Blend",
+                "capitalCity": "Islamabad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8,
+                    30.5167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Pakistan",
+                "year": "1962",
+                "population": "47198878.0",
+                "pop_density": "61.2272701328352",
+                "net_migration": "-93268.0",
+                "migration_perc": "-0.0019760639225364",
+                "region": "South Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "Blend",
+                "capitalCity": "Islamabad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.8,
+                    30.5167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "year": "2017",
+                "population": "105173264.0",
+                "pop_density": "352.72919475467",
+                "net_migration": "-335758.0",
+                "migration_perc": "-0.003192427307381",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Manila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035,
+                    14.5515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "year": "2012",
+                "population": "97212638.0",
+                "pop_density": "326.03091524969",
+                "net_migration": "-834619.0",
+                "migration_perc": "-0.0085854989348195",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Manila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035,
+                    14.5515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "year": "2007",
+                "population": "89405482.0",
+                "pop_density": "299.847342120267",
+                "net_migration": "-1548077.0",
+                "migration_perc": "-0.0173152357704419",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Manila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035,
+                    14.5515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "year": "2002",
+                "population": "81365258.0",
+                "pop_density": "272.882107522554",
+                "net_migration": "-1244356.0",
+                "migration_perc": "-0.015293456084168",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Manila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035,
+                    14.5515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "year": "1997",
+                "population": "73030884.0",
+                "pop_density": "244.930355166516",
+                "net_migration": "-949346.0",
+                "migration_perc": "-0.012999240157082",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Manila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035,
+                    14.5515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "year": "1992",
+                "population": "65020116.0",
+                "pop_density": "218.063909850086",
+                "net_migration": "-698877.0",
+                "migration_perc": "-0.0107486273940206",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Manila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035,
+                    14.5515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "year": "1987",
+                "population": "57263836.0",
+                "pop_density": "192.050964215045",
+                "net_migration": "-314676.0",
+                "migration_perc": "-0.0054951959557861",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Manila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035,
+                    14.5515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "year": "1982",
+                "population": "50023563.0",
+                "pop_density": "167.768598450548",
+                "net_migration": "-292444.0",
+                "migration_perc": "-0.0058461249551536",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Manila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035,
+                    14.5515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "year": "1977",
+                "population": "43629412.0",
+                "pop_density": "146.323949424825",
+                "net_migration": "-476561.0",
+                "migration_perc": "-0.0109229296970584",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Manila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035,
+                    14.5515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "year": "1972",
+                "population": "37923396.0",
+                "pop_density": "127.148782941058",
+                "net_migration": "-375090.0",
+                "migration_perc": "-0.0098907281404861",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Manila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035,
+                    14.5515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "year": "1967",
+                "population": "32823968.0",
+                "pop_density": "110.051525514652",
+                "net_migration": "-470430.0",
+                "migration_perc": "-0.0143319052711725",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Manila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035,
+                    14.5515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Philippines",
+                "year": "1962",
+                "population": "28077339.0",
+                "pop_density": "94.137125326896",
+                "net_migration": "-218063.0",
+                "migration_perc": "-0.0077665123464869",
+                "region": "East Asia & Pacific",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Manila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035,
+                    14.5515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "year": "2017",
+                "population": "37974826.0",
+                "pop_density": "124.0237303635",
+                "net_migration": "-146976.0",
+                "migration_perc": "-0.0038703534810139",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "IBRD",
+                "capitalCity": "Warsaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02,
+                    52.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "year": "2012",
+                "population": "38063164.0",
+                "pop_density": "124.300058781268",
+                "net_migration": "-320806.0",
+                "migration_perc": "-0.0084282536259991",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "IBRD",
+                "capitalCity": "Warsaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02,
+                    52.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "year": "2007",
+                "population": "38120560.0",
+                "pop_density": "124.44685296422",
+                "net_migration": "-178456.0",
+                "migration_perc": "-0.0046813583011372",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "IBRD",
+                "capitalCity": "Warsaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02,
+                    52.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "year": "2002",
+                "population": "38230364.0",
+                "pop_density": "124.81753893369",
+                "net_migration": "-183471.0",
+                "migration_perc": "-0.0047990911098832",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "IBRD",
+                "capitalCity": "Warsaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02,
+                    52.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "year": "1997",
+                "population": "38649660.0",
+                "pop_density": "126.186489927846",
+                "net_migration": "-85199.0",
+                "migration_perc": "-0.0022043919661906",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "IBRD",
+                "capitalCity": "Warsaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02,
+                    52.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "year": "1992",
+                "population": "38363667.0",
+                "pop_density": "125.252757190898",
+                "net_migration": "-159999.0",
+                "migration_perc": "-0.0041705867168537",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "IBRD",
+                "capitalCity": "Warsaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02,
+                    52.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "year": "1987",
+                "population": "37668045.0",
+                "pop_density": "122.981635051748",
+                "net_migration": "-304973.0",
+                "migration_perc": "-0.0080963320501502",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "IBRD",
+                "capitalCity": "Warsaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02,
+                    52.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "year": "1982",
+                "population": "36230481.0",
+                "pop_density": "118.288161546247",
+                "net_migration": "-119193.0",
+                "migration_perc": "-0.0032898541976298",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "IBRD",
+                "capitalCity": "Warsaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02,
+                    52.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "year": "1977",
+                "population": "34689050.0",
+                "pop_density": "113.255574782069",
+                "net_migration": "-106595.0",
+                "migration_perc": "-0.003072871698706",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "IBRD",
+                "capitalCity": "Warsaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02,
+                    52.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "year": "1972",
+                "population": "33055650.0",
+                "pop_density": "107.922720297757",
+                "net_migration": "-170903.0",
+                "migration_perc": "-0.0051701600180302",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "IBRD",
+                "capitalCity": "Warsaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02,
+                    52.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "year": "1967",
+                "population": "31987155.0",
+                "pop_density": "104.434212674263",
+                "net_migration": "-143114.0",
+                "migration_perc": "-0.004474108435089",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "IBRD",
+                "capitalCity": "Warsaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02,
+                    52.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Poland",
+                "year": "1962",
+                "population": "30308500.0",
+                "pop_density": "98.9536060596167",
+                "net_migration": "-62544.0",
+                "migration_perc": "-0.0020635795238959",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "IBRD",
+                "capitalCity": "Warsaw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.02,
+                    52.26
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russian Federation",
+                "year": "2017",
+                "population": "144496740.0",
+                "pop_density": "8.82322079860193",
+                "net_migration": "912279.0",
+                "migration_perc": "0.0063134919168418",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Moscow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6176,
+                    55.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russian Federation",
+                "year": "2012",
+                "population": "143201676.0",
+                "pop_density": "8.74414195142295",
+                "net_migration": "1800600.0",
+                "migration_perc": "0.0125738751828574",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Moscow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6176,
+                    55.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russian Federation",
+                "year": "2007",
+                "population": "142805088.0",
+                "pop_density": "8.71946239224704",
+                "net_migration": "2326672.0",
+                "migration_perc": "0.0162926407776171",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Moscow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6176,
+                    55.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russian Federation",
+                "year": "2002",
+                "population": "145306046.0",
+                "pop_density": "8.87043393114192",
+                "net_migration": "1778101.0",
+                "migration_perc": "0.0122369374774673",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Moscow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6176,
+                    55.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russian Federation",
+                "year": "1997",
+                "population": "147915307.0",
+                "pop_density": "9.03098283436059",
+                "net_migration": "2374657.0",
+                "migration_perc": "0.016054166726639",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Moscow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6176,
+                    55.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russian Federation",
+                "year": "1992",
+                "population": "148689000.0",
+                "pop_density": "9.07196178145754",
+                "net_migration": "2490121.0",
+                "migration_perc": "0.0167471769935906",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Moscow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6176,
+                    55.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russian Federation",
+                "year": "1987",
+                "population": "145908000.0",
+                "pop_density": "8.90228463174079",
+                "net_migration": "890253.0",
+                "migration_perc": "0.0061014680483592",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Moscow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6176,
+                    55.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russian Federation",
+                "year": "1982",
+                "population": "140823000.0",
+                "pop_density": "8.59203353274415",
+                "net_migration": "1100559.0",
+                "migration_perc": "0.0078151935408278",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Moscow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6176,
+                    55.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russian Federation",
+                "year": "1977",
+                "population": "136100000.0",
+                "pop_density": "8.30386913932013",
+                "net_migration": "614394.0",
+                "migration_perc": "0.0045142836149889",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Moscow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6176,
+                    55.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russian Federation",
+                "year": "1972",
+                "population": "131909000.0",
+                "pop_density": "8.04816366126803",
+                "net_migration": "-296861.0",
+                "migration_perc": "-0.0022504984496888",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Moscow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6176,
+                    55.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russian Federation",
+                "year": "1967",
+                "population": "128196000.0",
+                "pop_density": "7.82162239665161",
+                "net_migration": "-549722.0",
+                "migration_perc": "-0.0042881369153483",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Moscow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6176,
+                    55.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Russian Federation",
+                "year": "1962",
+                "population": "122591000.0",
+                "pop_density": "7.47964453826888",
+                "net_migration": "-1387844.0",
+                "migration_perc": "-0.0113209289425814",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Upper middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Moscow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6176,
+                    55.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "year": "2017",
+                "population": "44831135.0",
+                "pop_density": "77.389796129745",
+                "net_migration": "50001.0",
+                "migration_perc": "0.0011153186284487",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Kiev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038,
+                    50.4536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "year": "2012",
+                "population": "45593300.0",
+                "pop_density": "78.7014085479528",
+                "net_migration": "132154.0",
+                "migration_perc": "0.0028985399170492",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Kiev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038,
+                    50.4536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "year": "2007",
+                "population": "46509350.0",
+                "pop_density": "80.2812731948976",
+                "net_migration": "269541.0",
+                "migration_perc": "0.0057954153304658",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Kiev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038,
+                    50.4536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "year": "2002",
+                "population": "48202500.0",
+                "pop_density": "83.2024372561881",
+                "net_migration": "-165445.0",
+                "migration_perc": "-0.0034322908562833",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Kiev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038,
+                    50.4536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "year": "1997",
+                "population": "50594105.0",
+                "pop_density": "87.329084318633",
+                "net_migration": "-462264.0",
+                "migration_perc": "-0.0091367166194559",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Kiev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038,
+                    50.4536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "year": "1992",
+                "population": "52150266.0",
+                "pop_density": "90.0151307499784",
+                "net_migration": "74421.0",
+                "migration_perc": "0.0014270492886843",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Kiev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038,
+                    50.4536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "year": "1987",
+                "population": "51293000.0",
+                "pop_density": "88.5354276344179",
+                "net_migration": "0.0",
+                "migration_perc": "0.0",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Kiev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038,
+                    50.4536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "year": "1982",
+                "population": "50384000.0",
+                "pop_density": "86.9664278933287",
+                "net_migration": "189092.0",
+                "migration_perc": "0.0037530168307399",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Kiev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038,
+                    50.4536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "year": "1977",
+                "population": "49287127.0",
+                "pop_density": "85.0731457668076",
+                "net_migration": "104383.0",
+                "migration_perc": "0.0021178552363175",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Kiev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038,
+                    50.4536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "year": "1972",
+                "population": "47783005.0",
+                "pop_density": "82.4769224130491",
+                "net_migration": "206203.0",
+                "migration_perc": "0.0043154046088143",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Kiev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038,
+                    50.4536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "year": "1967",
+                "population": "46063228.0",
+                "pop_density": "79.5084629325969",
+                "net_migration": "268767.0",
+                "migration_perc": "0.0058347408913678",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Kiev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038,
+                    50.4536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Ukraine",
+                "year": "1962",
+                "population": "43752230.0",
+                "pop_density": "75.5195132476051",
+                "net_migration": "455769.0",
+                "migration_perc": "0.0104170461711323",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "Lower middle income",
+                "lendingType": "IBRD",
+                "capitalCity": "Kiev"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038,
+                    50.4536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "year": "2017",
+                "population": "66058859.0",
+                "pop_density": "273.049472988054",
+                "net_migration": "1303250.0",
+                "migration_perc": "0.0197286180798248",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "Not classified",
+                "capitalCity": "London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126236,
+                    51.5002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "year": "2012",
+                "population": "63700300.0",
+                "pop_density": "263.30054147894",
+                "net_migration": "1300231.0",
+                "migration_perc": "0.0204116935085078",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "Not classified",
+                "capitalCity": "London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126236,
+                    51.5002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "year": "2007",
+                "population": "61322463.0",
+                "pop_density": "253.471925763651",
+                "net_migration": "2189404.0",
+                "migration_perc": "0.0357031321458826",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "Not classified",
+                "capitalCity": "London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126236,
+                    51.5002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "year": "2002",
+                "population": "59370479.0",
+                "pop_density": "245.40354234696",
+                "net_migration": "992223.0",
+                "migration_perc": "0.0167123967451904",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "Not classified",
+                "capitalCity": "London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126236,
+                    51.5002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "year": "1997",
+                "population": "58316954.0",
+                "pop_density": "241.048873641136",
+                "net_migration": "513361.0",
+                "migration_perc": "0.0088029460523606",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "Not classified",
+                "capitalCity": "London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126236,
+                    51.5002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "year": "1992",
+                "population": "57580402.0",
+                "pop_density": "238.0043896995",
+                "net_migration": "205443.0",
+                "migration_perc": "0.0035679327143287",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "Not classified",
+                "capitalCity": "London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126236,
+                    51.5002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "year": "1987",
+                "population": "56802050.0",
+                "pop_density": "234.787128508246",
+                "net_migration": "98758.0",
+                "migration_perc": "0.0017386344330882",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "Not classified",
+                "capitalCity": "London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126236,
+                    51.5002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "year": "1982",
+                "population": "56313641.0",
+                "pop_density": "232.768325548712",
+                "net_migration": "-97495.0",
+                "migration_perc": "-0.0017312856755257",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "Not classified",
+                "capitalCity": "London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126236,
+                    51.5002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "year": "1977",
+                "population": "56193492.0",
+                "pop_density": "232.271698425164",
+                "net_migration": "39119.0",
+                "migration_perc": "0.0006961482301188",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "Not classified",
+                "capitalCity": "London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126236,
+                    51.5002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "year": "1972",
+                "population": "56086065.0",
+                "pop_density": "231.82765676022",
+                "net_migration": "106415.0",
+                "migration_perc": "0.0018973518644961",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "Not classified",
+                "capitalCity": "London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126236,
+                    51.5002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "year": "1967",
+                "population": "54943600.0",
+                "pop_density": "227.105361054851",
+                "net_migration": "-84853.0",
+                "migration_perc": "-0.0015443654947983",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "Not classified",
+                "capitalCity": "London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126236,
+                    51.5002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "United Kingdom",
+                "year": "1962",
+                "population": "53250000.0",
+                "pop_density": "220.104989046418",
+                "net_migration": "143068.0",
+                "migration_perc": "0.0026867230046948",
+                "region": "Europe & Central Asia",
+                "incomeLevel": "High income",
+                "lendingType": "Not classified",
+                "capitalCity": "London"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.126236,
+                    51.5002
+                ]
+            }
+        }
+    ]
+}
