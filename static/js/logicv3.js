@@ -10,7 +10,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(myMap);
 
 // Use file to get GeoJSON country outlines
-let countries = "resources/data_files/10countries_outline.geojson";
+let countries = "Resources/data_files/10countries_outline.geojson";
 
 // Getting our GeoJSON data
 d3.json(countries).then(function(data) {
@@ -20,7 +20,11 @@ d3.json(countries).then(function(data) {
   
 // Function to determine marker size based on migration percentage
 function markerSize(migrationPercentage) {
+<<<<<<< HEAD
   return Math.abs(migrationPercentage * 2); 
+=======
+  return Math.abs(migrationPercentage*5); 
+>>>>>>> e0317484b1cf507d5d5be059861baf6c88736aef
 }
 
 // Create a layer for migration markers
@@ -28,7 +32,7 @@ let migrationLayer = L.layerGroup();
 let populationLayer = L.layerGroup();
 
 // Load the local GeoJSON data for migration percentage
-fetch('resources/data_files/migration_data.json')
+fetch('Resources/data_files/migration_data.json')
   .then(response => response.json())
   .then(migrationData => {
 
@@ -38,8 +42,12 @@ fetch('resources/data_files/migration_data.json')
       let long = item.longitude; 
       let country = item.country;
       let year = item.year;
+<<<<<<< HEAD
       // Multiply migration_perc by 1000 to get net migration rate and round
       let migration_perc = Math.round(((item.migration_perc*1000) + Number.EPSILON) *100)/100; 
+=======
+      let migration_perc = (item.migration_perc*1000);
+>>>>>>> e0317484b1cf507d5d5be059861baf6c88736aef
         
       // Check for null values and provide default values
       if (lat == null || long == null) {
@@ -55,7 +63,7 @@ fetch('resources/data_files/migration_data.json')
         weight: 1,
         opacity: 1,
         fillOpacity: 0.6
-      }).bindPopup("Country: " + country + "<br>Year: " + year + "<br>Migration Percentage: " + migration_perc);
+      }).bindPopup("Country: " + country + "<br>Year: " + year + "<br>Net Migration Rate: " + migration_perc);
   
       migrationLayer.addLayer(marker);
     });
@@ -68,7 +76,11 @@ fetch('resources/data_files/migration_data.json')
   });
 
 // Load population density data
+<<<<<<< HEAD
 let popDensityData = "resources/data_files/top10country_population.geojson";
+=======
+let populationDensityData = "Resources/data_files/top10country_population.geojson";
+>>>>>>> e0317484b1cf507d5d5be059861baf6c88736aef
 
 // Function to determine the color based on population density
 function getColor(density) {
