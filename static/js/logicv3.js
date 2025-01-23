@@ -1,12 +1,7 @@
-// This file will use L.geojson to outline countries
-// Only uses data from 10 countries with highest migration percentages
-// Uses a fetch function for both the migration markers and population density maps
-// logic.js uses separate fetch functions (one for markers and one for choropleth)
-
 // Initialize the map
 let myMap = L.map('map', {
-  center: [0, 0],
-  zoom: 3
+  center: [30, 5],
+  zoom: 2.5
 });
  
 // Add a tile layer
@@ -25,7 +20,7 @@ d3.json(countries).then(function(data) {
   
 // Function to determine marker size based on migration percentage
 function markerSize(migrationPercentage) {
-  return Math.abs(migrationPercentage * 2000); 
+  return Math.abs(migrationPercentage * 2); 
 }
 
 // Create a layer for migration markers
@@ -43,7 +38,8 @@ fetch('resources/data_files/migration_data.json')
       let long = item.longitude; 
       let country = item.country;
       let year = item.year;
-      let migration_perc = item.migration_perc;
+      // Multiply migration_perc by 1000 to get net migration rate and round
+      let migration_perc = Math.round(((item.migration_perc*1000) + Number.EPSILON) *100)/100; 
         
       // Check for null values and provide default values
       if (lat == null || long == null) {
@@ -72,7 +68,7 @@ fetch('resources/data_files/migration_data.json')
   });
 
 // Load population density data
-let populationDensityData = "resources/data_files/top10country_population.geojson";
+let popDensityData = "resources/data_files/top10country_population.geojson";
 
 // Function to determine the color based on population density
 function getColor(density) {
@@ -90,7 +86,7 @@ function getColor(density) {
 function style(feature) {
   console.log(feature.properties.pop_density); // check values
   return {
-    fillColor: getColor(feature.properties.pop_density),
+    fillColor: chooseColor(feature.properties.pop_density),
     weight: 2,
     opacity: 1,
     color: 'white',
@@ -106,7 +102,7 @@ const targetYear = "2017";
 function loadPopulationDensity(year) {
 
   //Get GeoJSON data
-  d3.json(populationDensityData).then(function(data) {
+  d3.json(popDensityData).then(function(data) {
     console.log(data);
 
   // Filter for features
@@ -128,7 +124,7 @@ function loadPopulationDensity(year) {
  populationLayer = L.geoJson(filteredData, {
     style: style,
     onEachFeature: function(feature, layer) {
-      layer.bindPopup(`${feature.properties.country}: ${feature.properties.pop_density} people/km²`);
+      layer.bindPopup(`${feature.properties.country}: ${Math.round(feature.properties.pop_density)} people/km²`);
       }
     
   }).addTo(myMap);
