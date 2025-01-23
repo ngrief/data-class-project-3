@@ -28,7 +28,7 @@ let baseMaps = {
 // Overlays that can be toggled on or off
 let overlayMaps = {
   'Choropleth': choroplethLayer,
-  'Migration': migrationLayer,
+  'Net Migration Rate': migrationLayer,
   'Population Density in 2017': populationLayer
 };
 
