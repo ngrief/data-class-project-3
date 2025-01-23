@@ -41,7 +41,7 @@ Note: Our original dataset did not multiply the migration percentage by 1,000 (t
 # Instructions 
 <ins> Leaflet Map: Global Population and Migration </ins>
 1. Clone the repo.
-2. Open index.html and logicv3.js.
+2. Open index.html and logicv3a.js.
 3. For migration data, click on various ring markers to show net migration rates for a given country.
 4. For population density data, use the dropdown menu to select every 10 years from 1967-2017.
 
