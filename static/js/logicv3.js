@@ -15,7 +15,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(myMap);
 
 // Use file to get GeoJSON country outlines
-let countries = "static/data/10countries_outline.geojson";
+let countries = "resources/data_files/10countries_outline.geojson";
 
 // Getting our GeoJSON data
 d3.json(countries).then(function(data) {
@@ -33,7 +33,7 @@ let migrationLayer = L.layerGroup();
 let populationLayer = L.layerGroup();
 
 // Load the local GeoJSON data for migration percentage
-fetch('static/data/migration_data.json')
+fetch('resources/data_files/migration_data.json')
   .then(response => response.json())
   .then(migrationData => {
 
@@ -72,7 +72,7 @@ fetch('static/data/migration_data.json')
   });
 
 // Load population density data
-let populationDensityData = "static/data/top10country_population.geojson";
+let populationDensityData = "resources/data_files/top10country_population.geojson";
 
 // Function to determine the color based on population density
 function getColor(density) {

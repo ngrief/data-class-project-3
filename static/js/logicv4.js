@@ -42,7 +42,7 @@ let myMap = L.map('map', {
   let geoJsonLayer;
   
   // Load migration data for circle markers and standard markers
-  fetch('static/data/migration_data.json')
+  fetch('resources/data_files/migration_data.json')
     .then(response => response.json())
     .then(migrationData => {
       migrationData.forEach(item => {
@@ -85,7 +85,7 @@ let myMap = L.map('map', {
     .catch(error => console.error("Error loading migration data:", error));
   
   // Load GeoJSON data for country polygons
-  fetch('static/data/10countries_outline.geojson')
+  fetch('resources/data_files/10countries_outline.geojson')
     .then(response => response.json())
     .then(geojsonData => {
       geoJsonLayer = L.geoJson(geojsonData, {
