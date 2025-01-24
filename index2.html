@@ -3,47 +3,63 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Net Migration and Population Density Charts</title>
+    <title>Migration and Population Dashboard</title>
 
-    <!-- Link to CSS file for styling -->
+    <!-- Link to CSS file -->
     <link rel="stylesheet" href="static2/css/style.css">
 
-    <!-- Include Chart.js library from CDN -->
+    <!-- Include Chart.js library -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
-    <!-- Header section with a title -->
+    <!-- Header section -->
     <header>
-        <h1>Net Migration and Population Density Dashboard</h1>
+        <h1>Migration and Population Visualization</h1>
+        <p>Explore data trends in migration, population, and density over the years.</p>
     </header>
+
+    <!-- Universal Key for Interactivity -->
     <div id="universal-country-key">
         <h2>Universal Country Key</h2>
-        <ul id="universal-country-list"></ul>
+        <ul id="universal-country-list" aria-label="Country selection list"></ul>
     </div>
     
-    <!-- Main content section with canvas for chart rendering and country key -->
+    <!-- Main content -->
     <main>
-        <section>
-            <div id="chart-container">
-                <h2>Net Migration 1962-2017</h2>
-                <canvas id="netMigrationChart" width="600" height="400"></canvas>
+        <!-- Net Migration Chart -->
+        <section class="chart-container">
+            <div>
+                <h2>Net Migration (1962-2017)</h2>
+                <p>This chart shows net migration trends for selected countries.</p>
             </div>
-            
-            <div id="chart-container">
-                <h2>Population Density 1962-2017</h2>
-                <canvas id="populationDensityChart" width="600" height="400"></canvas>
+            <canvas id="netMigrationChart" width="600" height="400"></canvas>
+        </section>
+
+        <!-- Total Population Chart -->
+        <section class="chart-container">
+            <div>
+                <h2>Total Population (1962-2017)</h2>
+                <p>Visualize total population growth over time for selected countries.</p>
             </div>
-            
+            <canvas id="populationChart" width="600" height="400"></canvas>
+        </section>
+
+        <!-- Population Density Chart -->
+        <section class="chart-container">
+            <div>
+                <h2>Population Density (1962-2017)</h2>
+                <p>Track changes in population density (people per square kilometer).</p>
+            </div>
+            <canvas id="populationDensityChart" width="600" height="400"></canvas>
         </section>
     </main>
 
-    <!-- Footer section -->
+    <!-- Footer -->
     <footer>
-        <p>&copy; 2025 Net Migration and Population Density Visualization by Nathaniel Trief</p>
+        <p>&copy; 2025 Migration and Population Dashboard by Nathaniel Trief</p>
     </footer>
 
-    <!-- Link to the JavaScript logic file -->
+    <!-- JavaScript -->
     <script type="text/javascript" src="static2/js/logicv5.js"></script>
 </body>
 </html>
-df 
