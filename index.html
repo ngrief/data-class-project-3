@@ -10,21 +10,7 @@
     <!-- Leaflet CSS-->
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <style>
-        #map {
-      height: 600px; /* Adjust the height as needed */
-      width: 100%;
-    }
-
-        #yearSelect {
-      font-size: 28px; /* Change this value to make the text larger or smaller */
-      font-weight: bold; /* Optional: make the text bold */
-    }
-
-      label[for="yearSelect"] {
-        font-size: 28px;
-        font-weight: bold;
-        margin-right: 10px;
-      }
+    
     </style>
 
     <!-- Our CSS -->
@@ -48,7 +34,14 @@
 </head>
 
 <body>
-    <!-- Add dropdown -->
+
+   <!-- Header section with a title -->
+   <header>
+    <h1>Net Migration Rate and Population Density Map</h1>
+  </header> 
+
+
+  <!-- Add dropdown -->
     <label for="yearSelect">Show Population Density for Year:</label>
     <select id="yearSelect">
       <option value="2017">2017</option>
@@ -62,6 +55,10 @@
     <!-- The div that holds the map -->
     <div id="map"></div>
    
+     <!-- Footer section -->
+    <footer>
+      <p>&copy; 2025 Net Migration and Population Density Visualization by Hannah Miles-Kingrey</p>
+    </footer>
     <!-- JavaScript -->
     <!-- <script type="text/javascript" src="static/js/choropleth.js"></script> -->
     <!-- <script type="text/javascript" src="static/js/logic.js"></script> --> 
