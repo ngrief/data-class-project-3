@@ -45,6 +45,7 @@ fetch('static2/data/migration_data.json')
     })
     .then(data => {
         const ctxNetMigration = document.getElementById('netMigrationChart').getContext('2d');
+        const ctxTotalPopulation = document.getElementById('populationChart').getContext('2d');
         const ctxPopulationDensity = document.getElementById('populationDensityChart').getContext('2d');
 
         // Extract data for charts
@@ -53,11 +54,12 @@ fetch('static2/data/migration_data.json')
         const datasets = Object.entries(
             data.reduce((acc, item) => {
                 if (!acc[item.country]) {
-                    acc[item.country] = { years: [], netMigration: [], densities: [] };
+                    acc[item.country] = { years: [], netMigration: [], population: [], densities: [] };
                     countries.push(item.country);
                 }
                 acc[item.country].years.push(item.year);
                 acc[item.country].netMigration.push(item.net_migration);
+                acc[item.country].population.push(item.population); // Use `population` key
                 acc[item.country].densities.push(item.pop_density);
                 return acc;
             }, {})
@@ -67,6 +69,10 @@ fetch('static2/data/migration_data.json')
             netMigration: labels.map(year => {
                 const yearIndex = details.years.indexOf(year);
                 return yearIndex !== -1 ? details.netMigration[yearIndex] : null; // Handle missing data
+            }),
+            population: labels.map(year => {
+                const yearIndex = details.years.indexOf(year);
+                return yearIndex !== -1 ? details.population[yearIndex] : null; // Handle missing data
             }),
             densities: labels.map(year => {
                 const yearIndex = details.years.indexOf(year);
@@ -112,6 +118,44 @@ fetch('static2/data/migration_data.json')
             }
         });
 
+        // Create total population chart
+        const totalPopulationChart = new Chart(ctxTotalPopulation, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: datasets.map(ds => ({
+                    label: ds.label,
+                    data: ds.population, // Use `population` dataset
+                    borderColor: ds.borderColor,
+                    fill: false,
+                    tension: 0.1
+                }))
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        display: true,
+                        position: 'top'
+                    }
+                },
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Years'
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: 'Total Population'
+                        }
+                    }
+                }
+            }
+        });
+
         // Create population density chart
         const populationDensityChart = new Chart(ctxPopulationDensity, {
             type: 'line',
@@ -150,7 +194,7 @@ fetch('static2/data/migration_data.json')
             }
         });
 
-        // Populate the universal key with both charts
-        populateUniversalCountryKey(countries, datasets, [netMigrationChart, populationDensityChart]);
+        // Populate the universal key with all charts
+        populateUniversalCountryKey(countries, datasets, [netMigrationChart, totalPopulationChart, populationDensityChart]);
     })
     .catch(error => console.error('Error fetching or rendering data:', error));
