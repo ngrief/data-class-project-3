@@ -8,9 +8,10 @@ Team Members:
 
 # Project Overview and Purpose
 ## Research Question and Terminology
+
 *Is there a relationship between the population density of a country and its migration trends?*
 
-**Net Migration Rate** is "[t]he difference between the number of migrants entering and those leaving a country in a year, per 1,000 midyear population. May also be expressed in percent. A positive figure is known as a net immigration rate and a negative figure as a net emigration rate" [(Census.gov)](https://www.census.gov/glossary/?term=Net+migration+rate).
+**Net Migration Rate** is "[t]he difference between the number of migrants entering and those leaving a country in a year, per 1,000 midyear population. May also be expressed in percent. <ins> A positive figure is known as a net immigration rate and a negative figure as a net emigration rate</ins>" [(Census.gov)](https://www.census.gov/glossary/?term=Net+migration+rate).
 
 - A formula for calculating the net migration rate is:
 - N = (I - E) / M X 1,000
@@ -39,15 +40,17 @@ Note: Our original dataset did not multiply the migration percentage by 1,000 (t
 
 Overview
 
-![Leaflet View1]( )
+![Leaflet View1](Images/Leaflet_Map1.png)
 
 Net Migration Rates (Circle Markers)
+- United Kingdom, 2007
 
-![Leaflet View1]( )
+![Leaflet View1](Images/Leaflet_Map2.png)
 
 Population Density (Choropleth and Tooltips)
+- Bangladesh, 2017
 
-![Leaflet View1]( )
+![Leaflet View1](Images/Leaflet_Map3.png)
 
 - Dashboards
 
