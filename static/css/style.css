@@ -1,12 +1,48 @@
-body {
-  padding: 0;
+* {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-#map,
-body,
-html {
-  height: 100%;
+html, body {
+  height: 100%; /* Make sure the body takes the full height */
+}
+
+header {
+  background-color: #578c97;
+  color: white;
+  padding: 10x;
+  text-align: center;
+}
+
+#map {
+  height: calc(100% - 100px); /* Adjust height to fit the map between header and footer */
+}
+
+
+footer {
+  background: #578c97;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Style the dropdown */
+#yearSelect {
+  background-color: rgb(247, 250, 251); /* Background color */
+  color: #131313; /* Text color */
+  padding: 5px; /* Padding inside the dropdown */
+  border: 1px solid #131313; /* Border color */
+  border-radius: 2px;
+  font-size: 18px; /* Font size */
+  text-align: center;
+}
+
+label[for="yearSelect"] {
+  font-size: 18px; /* Change this value to adjust the label size */
+  font-weight: bold; /* Optional: make the label text bold */
+  color: #333; /* Optional: change the text color */
+  margin-right: 10px; /* Optional: add some space between the label and the dropdown */
 }
 
 .leaflet-popup-content {
@@ -22,7 +58,7 @@ html {
 }
 
 .info.legend i {
-  width: 20px;
+  width: 100%;
   height: 20px;
   float: left;
   margin-right: 8px;
@@ -38,7 +74,7 @@ html {
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
   border-radius: 5px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column ;
   justify-content: space-between;
 }
 .legend ul {
