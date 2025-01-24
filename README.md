@@ -35,11 +35,24 @@ Note: Our original dataset did not multiply the migration percentage by 1,000 (t
   5. Loaded into MongoDB
 
 ## Results
-- Visualizations
+<ins> Leaflet Map: Net Migration and Population Density </ins>
+
+Overview
+
+![Leaflet View1]( )
+
+Net Migration Rates (Circle Markers)
+
+![Leaflet View1]( )
+
+Population Density (Choropleth and Tooltips)
+
+![Leaflet View1]( )
+
 - Dashboards
 
 # Instructions 
-<ins> Leaflet Map: Global Population and Migration </ins>
+<ins> Leaflet Map: Net Migration and Population Densit </ins>
 1. Clone the repo.
 2. Open index.html and logicv3a.js.
 3. For migration data, click on various ring markers to show net migration rates for a given country.
