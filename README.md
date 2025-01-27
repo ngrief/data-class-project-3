@@ -54,28 +54,28 @@ Population Density (Choropleth and Tooltips)
 
 - Dashboards
 
-Net Migration By Country Bar Charts
+- Net Migration By Country Bar Charts
 Top10 Countries 
 
- ![Net_migration by Country between 1960-2018](/Resources/Images/net_migration_by_country_bar_charts.png)
+ ![Net_migration by Country between 1960-2018](/resources/Images/net_migration_by_country_bar_charts.png)
 
-Scatter Plots Between Net Migration and Population 
+- Scatter Plots Between Net Migration and Population 
 Top10 Countries 
 
-Correlation Between Net Migration and Population 
+- Correlation Between Net Migration and Population 
 
 The correlation between net migration and populaton is approximately -0.3121, r < 0: Negative correlation (as one variable increases, the other tends to decrease).
 A slight tendency exists where countries with higher populations have lower net migration. Countries with large populations might experience less net migration relative to smaller countries. However, this relationship is weak, so it's not a consistent trend.
 
-![Scatter Plot of Population-Net Migration](/Resources/Images/net_migration_population_scatter_plot_line_equation.png)
+![Scatter Plot of Population-Net Migration](/resources/Images/net_migration_population_scatter_plot_line_equation.png)
 
-Heatmap of Migration Percentage by Country for 2017
+-  Heatmap of Migration Percentage by Country for 2017
 
-![Heatmap of Migration Percentage by Country for 2017](/Resources/Images/Heatmap_of_Migration_Percentage_by_Country_for_2017.png)
+![Heatmap of Migration Percentage by Country for 2017](/resources/Images/Heatmap_of_Migration_Percentage_by_Country_for_2017.png)
 
-Population Distribution by Country in 2017 for Top10countries 
+- Population Distribution by Country in 2017 for Top10countries 
 
-![Population Distribution by Country in 2017](/Resources/Images/Population_Distribution_by_Country_in_2017.png) 
+![Population Distribution by Country in 2017](/resources/Images/Population_Distribution_by_Country_in_2017.png) 
 
 
 
