@@ -1,0 +1,2040 @@
+[{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac696"
+  },
+  "country": "Bangladesh",
+  "year": 2017,
+  "population": 159670593,
+  "pop_density": 1226.63127448721,
+  "net_migration": -1847503,
+  "migration_perc": -0.0115707154666858,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IDA",
+  "capitalCity": "Dhaka",
+  "longitude": 90.4113,
+  "latitude": 23.7055
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac697"
+  },
+  "country": "Bangladesh",
+  "year": 2012,
+  "population": 151007807,
+  "pop_density": 1160.0814857494,
+  "net_migration": -2306839,
+  "migration_perc": -0.0152762896556732,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IDA",
+  "capitalCity": "Dhaka",
+  "longitude": 90.4113,
+  "latitude": 23.7055
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac698"
+  },
+  "country": "Bangladesh",
+  "year": 2007,
+  "population": 142660376,
+  "pop_density": 1095.95433663671,
+  "net_migration": -3254778,
+  "migration_perc": -0.0228148704725129,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IDA",
+  "capitalCity": "Dhaka",
+  "longitude": 90.4113,
+  "latitude": 23.7055
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac699"
+  },
+  "country": "Bangladesh",
+  "year": 2002,
+  "population": 132478086,
+  "pop_density": 1017.73132058078,
+  "net_migration": -1492537,
+  "migration_perc": -0.0112662935060822,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IDA",
+  "capitalCity": "Dhaka",
+  "longitude": 90.4113,
+  "latitude": 23.7055
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac69a"
+  },
+  "country": "Bangladesh",
+  "year": 1997,
+  "population": 120160564,
+  "pop_density": 923.104893600676,
+  "net_migration": -719899,
+  "migration_perc": -0.0059911419856517,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IDA",
+  "capitalCity": "Dhaka",
+  "longitude": 90.4113,
+  "latitude": 23.7055
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac69b"
+  },
+  "country": "Bangladesh",
+  "year": 1992,
+  "population": 107983704,
+  "pop_density": 829.559068909887,
+  "net_migration": -813794,
+  "migration_perc": -0.0075362667685487,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IDA",
+  "capitalCity": "Dhaka",
+  "longitude": 90.4113,
+  "latitude": 23.7055
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac69c"
+  },
+  "country": "Bangladesh",
+  "year": 1987,
+  "population": 95671163,
+  "pop_density": 734.970907275102,
+  "net_migration": -219363,
+  "migration_perc": -0.0022928852657513,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IDA",
+  "capitalCity": "Dhaka",
+  "longitude": 90.4113,
+  "latitude": 23.7055
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac69d"
+  },
+  "country": "Bangladesh",
+  "year": 1982,
+  "population": 83932127,
+  "pop_density": 644.788561112391,
+  "net_migration": -793826,
+  "migration_perc": -0.0094579516613465,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IDA",
+  "capitalCity": "Dhaka",
+  "longitude": 90.4113,
+  "latitude": 23.7055
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac69e"
+  },
+  "country": "Bangladesh",
+  "year": 1977,
+  "population": 73463584,
+  "pop_density": 564.366474610125,
+  "net_migration": -1137344,
+  "migration_perc": -0.0154817385440928,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IDA",
+  "capitalCity": "Dhaka",
+  "longitude": 90.4113,
+  "latitude": 23.7055
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac69f"
+  },
+  "country": "Bangladesh",
+  "year": 1972,
+  "population": 66625705,
+  "pop_density": 511.83609894753,
+  "net_migration": -3045287,
+  "migration_perc": -0.0457073887623403,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IDA",
+  "capitalCity": "Dhaka",
+  "longitude": 90.4113,
+  "latitude": 23.7055
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6a0"
+  },
+  "country": "Bangladesh",
+  "year": 1967,
+  "population": 59034249,
+  "pop_density": 453.516547591611,
+  "net_migration": -161822,
+  "migration_perc": -0.0027411545457281,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IDA",
+  "capitalCity": "Dhaka",
+  "longitude": 90.4113,
+  "latitude": 23.7055
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6a1"
+  },
+  "country": "Bangladesh",
+  "year": 1962,
+  "population": 50752157,
+  "pop_density": 389.891349773373,
+  "net_migration": -142378,
+  "migration_perc": -0.0028053585978621,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IDA",
+  "capitalCity": "Dhaka",
+  "longitude": 90.4113,
+  "latitude": 23.7055
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6a2"
+  },
+  "country": "China",
+  "year": 2017,
+  "population": 1386395000,
+  "pop_density": 147.674050750889,
+  "net_migration": -1741996,
+  "migration_perc": -0.0012564932793323,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Beijing",
+  "longitude": 116.286,
+  "latitude": 40.0495
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6a3"
+  },
+  "country": "China",
+  "year": 2012,
+  "population": 1350695000,
+  "pop_density": 143.871389770868,
+  "net_migration": -1552209,
+  "migration_perc": -0.0011491928229541,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Beijing",
+  "longitude": 116.286,
+  "latitude": 40.0495
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6a4"
+  },
+  "country": "China",
+  "year": 2007,
+  "population": 1317885000,
+  "pop_density": 140.376590666872,
+  "net_migration": -2178385,
+  "migration_perc": -0.0016529401275528,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Beijing",
+  "longitude": 116.286,
+  "latitude": 40.0495
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6a5"
+  },
+  "country": "China",
+  "year": 2002,
+  "population": 1280400000,
+  "pop_density": 136.383780699482,
+  "net_migration": -1965578,
+  "migration_perc": -0.0015351280849734,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Beijing",
+  "longitude": 116.286,
+  "latitude": 40.0495
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6a6"
+  },
+  "country": "China",
+  "year": 1997,
+  "population": 1230075000,
+  "pop_density": 131.023100200996,
+  "net_migration": -382999,
+  "migration_perc": -0.0003113623153059,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Beijing",
+  "longitude": 116.286,
+  "latitude": 40.0495
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6a7"
+  },
+  "country": "China",
+  "year": 1992,
+  "population": 1164970000,
+  "pop_density": 124.088088834447,
+  "net_migration": -779982,
+  "migration_perc": -0.0006695296874597,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Beijing",
+  "longitude": 116.286,
+  "latitude": 40.0495
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6a8"
+  },
+  "country": "China",
+  "year": 1987,
+  "population": 1084035000,
+  "pop_density": 115.467206348361,
+  "net_migration": -431651,
+  "migration_perc": -0.0003981891728588,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Beijing",
+  "longitude": 116.286,
+  "latitude": 40.0495
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6a9"
+  },
+  "country": "China",
+  "year": 1982,
+  "population": 1008630000,
+  "pop_density": 107.435358027321,
+  "net_migration": -200000,
+  "migration_perc": -0.0001982887679327,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Beijing",
+  "longitude": 116.286,
+  "latitude": 40.0495
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6aa"
+  },
+  "country": "China",
+  "year": 1977,
+  "population": 943455000,
+  "pop_density": 100.493169653556,
+  "net_migration": -47004,
+  "migration_perc": -0.00004982113614321828,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Beijing",
+  "longitude": 116.286,
+  "latitude": 40.0495
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ab"
+  },
+  "country": "China",
+  "year": 1972,
+  "population": 862030000,
+  "pop_density": 91.8200942667696,
+  "net_migration": -1105479,
+  "migration_perc": -0.0012824136050949,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Beijing",
+  "longitude": 116.286,
+  "latitude": 40.0495
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ac"
+  },
+  "country": "China",
+  "year": 1967,
+  "population": 754550000,
+  "pop_density": 80.3717412723351,
+  "net_migration": -160002,
+  "migration_perc": -0.0002120495659664,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Beijing",
+  "longitude": 116.286,
+  "latitude": 40.0495
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ad"
+  },
+  "country": "China",
+  "year": 1962,
+  "population": 665770000,
+  "pop_density": 70.9152397944239,
+  "net_migration": -1125727,
+  "migration_perc": -0.001690864713039,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Beijing",
+  "longitude": 116.286,
+  "latitude": 40.0495
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ae"
+  },
+  "country": "India",
+  "year": 2017,
+  "population": 1338658835,
+  "pop_density": 450.243285831043,
+  "net_migration": -2663434,
+  "migration_perc": -0.0019896286718938,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "New Delhi",
+  "longitude": 77.225,
+  "latitude": 28.6353
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6af"
+  },
+  "country": "India",
+  "year": 2012,
+  "population": 1265782790,
+  "pop_density": 425.732223638583,
+  "net_migration": -2350075,
+  "migration_perc": -0.0018566179115138,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "New Delhi",
+  "longitude": 77.225,
+  "latitude": 28.6353
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6b0"
+  },
+  "country": "India",
+  "year": 2007,
+  "population": 1183209472,
+  "pop_density": 397.959589531782,
+  "net_migration": -2655844,
+  "migration_perc": -0.0022446101580904,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "New Delhi",
+  "longitude": 77.225,
+  "latitude": 28.6353
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6b1"
+  },
+  "country": "India",
+  "year": 2002,
+  "population": 1093317189,
+  "pop_density": 367.725301443904,
+  "net_migration": -1888986,
+  "migration_perc": -0.0017277566098889,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "New Delhi",
+  "longitude": 77.225,
+  "latitude": 28.6353
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6b2"
+  },
+  "country": "India",
+  "year": 1997,
+  "population": 1000900030,
+  "pop_density": 336.641798875955,
+  "net_migration": -682569,
+  "migration_perc": -0.0006819552198434,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "New Delhi",
+  "longitude": 77.225,
+  "latitude": 28.6353
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6b3"
+  },
+  "country": "India",
+  "year": 1992,
+  "population": 909307016,
+  "pop_density": 305.835488482068,
+  "net_migration": -552948,
+  "migration_perc": -0.0006080982443447,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "New Delhi",
+  "longitude": 77.225,
+  "latitude": 28.6353
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6b4"
+  },
+  "country": "India",
+  "year": 1987,
+  "population": 819682102,
+  "pop_density": 275.691127038635,
+  "net_migration": 45150,
+  "migration_perc": 0.00005508232995430221,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "New Delhi",
+  "longitude": 77.225,
+  "latitude": 28.6353
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6b5"
+  },
+  "country": "India",
+  "year": 1982,
+  "population": 732239504,
+  "pop_density": 246.280763758791,
+  "net_migration": 579708,
+  "migration_perc": 0.0007916917850419,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "New Delhi",
+  "longitude": 77.225,
+  "latitude": 28.6353
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6b6"
+  },
+  "country": "India",
+  "year": 1977,
+  "population": 652408776,
+  "pop_density": 219.430569859309,
+  "net_migration": 1111236,
+  "migration_perc": 0.0017032818087045,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "New Delhi",
+  "longitude": 77.225,
+  "latitude": 28.6353
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6b7"
+  },
+  "country": "India",
+  "year": 1972,
+  "population": 581087256,
+  "pop_density": 195.442355180799,
+  "net_migration": 2106041,
+  "migration_perc": 0.0036243111137856,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "New Delhi",
+  "longitude": 77.225,
+  "latitude": 28.6353
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6b8"
+  },
+  "country": "India",
+  "year": 1967,
+  "population": 520400576,
+  "pop_density": 175.031052842233,
+  "net_migration": -342846,
+  "migration_perc": -0.0006588117227602,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "New Delhi",
+  "longitude": 77.225,
+  "latitude": 28.6353
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6b9"
+  },
+  "country": "India",
+  "year": 1962,
+  "population": 469077190,
+  "pop_density": 157.768992227204,
+  "net_migration": -85391,
+  "migration_perc": -0.0001820404014955,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "New Delhi",
+  "longitude": 77.225,
+  "latitude": 28.6353
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ba"
+  },
+  "country": "Mexico",
+  "year": 2017,
+  "population": 124777324,
+  "pop_density": 64.1875171686515,
+  "net_migration": -300000,
+  "migration_perc": -0.0024042830089864,
+  "region": "Latin America & Caribbean ",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Mexico City",
+  "longitude": -99.1276,
+  "latitude": 19.427
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6bb"
+  },
+  "country": "Mexico",
+  "year": 2012,
+  "population": 117274155,
+  "pop_density": 60.3277630597495,
+  "net_migration": -422477,
+  "migration_perc": -0.0036024731962468,
+  "region": "Latin America & Caribbean ",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Mexico City",
+  "longitude": -99.1276,
+  "latitude": 19.427
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6bc"
+  },
+  "country": "Mexico",
+  "year": 2007,
+  "population": 109170502,
+  "pop_density": 56.1591100594151,
+  "net_migration": -562404,
+  "migration_perc": -0.0051516113757542,
+  "region": "Latin America & Caribbean ",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Mexico City",
+  "longitude": -99.1276,
+  "latitude": 19.427
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6bd"
+  },
+  "country": "Mexico",
+  "year": 2002,
+  "population": 101684758,
+  "pop_density": 52.3083196584274,
+  "net_migration": -2206114,
+  "migration_perc": -0.0216956212847553,
+  "region": "Latin America & Caribbean ",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Mexico City",
+  "longitude": -99.1276,
+  "latitude": 19.427
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6be"
+  },
+  "country": "Mexico",
+  "year": 1997,
+  "population": 94611002,
+  "pop_density": 48.6694626919417,
+  "net_migration": -2296470,
+  "migration_perc": -0.0242727584684073,
+  "region": "Latin America & Caribbean ",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Mexico City",
+  "longitude": -99.1276,
+  "latitude": 19.427
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6bf"
+  },
+  "country": "Mexico",
+  "year": 1992,
+  "population": 87075138,
+  "pop_density": 44.7928897348183,
+  "net_migration": -2018533,
+  "migration_perc": -0.0231815079064244,
+  "region": "Latin America & Caribbean ",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Mexico City",
+  "longitude": -99.1276,
+  "latitude": 19.427
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6c0"
+  },
+  "country": "Mexico",
+  "year": 1987,
+  "population": 79200081,
+  "pop_density": 40.741830293989,
+  "net_migration": -1835537,
+  "migration_perc": -0.0231759485195476,
+  "region": "Latin America & Caribbean ",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Mexico City",
+  "longitude": -99.1276,
+  "latitude": 19.427
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6c1"
+  },
+  "country": "Mexico",
+  "year": 1982,
+  "population": 71058654,
+  "pop_density": 36.5537457239127,
+  "net_migration": -1273198,
+  "migration_perc": -0.0179175642702154,
+  "region": "Latin America & Caribbean ",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Mexico City",
+  "longitude": -99.1276,
+  "latitude": 19.427
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6c2"
+  },
+  "country": "Mexico",
+  "year": 1977,
+  "population": 62869903,
+  "pop_density": 32.341316906299,
+  "net_migration": -1253817,
+  "migration_perc": -0.0199430401538873,
+  "region": "Latin America & Caribbean ",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Mexico City",
+  "longitude": -99.1276,
+  "latitude": 19.427
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6c3"
+  },
+  "country": "Mexico",
+  "year": 1972,
+  "population": 54689943,
+  "pop_density": 28.1334103243396,
+  "net_migration": -920380,
+  "migration_perc": -0.0168290539267886,
+  "region": "Latin America & Caribbean ",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Mexico City",
+  "longitude": -99.1276,
+  "latitude": 19.427
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6c4"
+  },
+  "country": "Mexico",
+  "year": 1967,
+  "population": 46956208,
+  "pop_density": 24.1550492553821,
+  "net_migration": -616085,
+  "migration_perc": -0.0131204163675226,
+  "region": "Latin America & Caribbean ",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Mexico City",
+  "longitude": -99.1276,
+  "latitude": 19.427
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6c5"
+  },
+  "country": "Mexico",
+  "year": 1962,
+  "population": 40195319,
+  "pop_density": 20.6771362432161,
+  "net_migration": -409085,
+  "migration_perc": -0.010177428869267,
+  "region": "Latin America & Caribbean ",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Mexico City",
+  "longitude": -99.1276,
+  "latitude": 19.427
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6c6"
+  },
+  "country": "Pakistan",
+  "year": 2017,
+  "population": 207896686,
+  "pop_density": 269.687481838937,
+  "net_migration": -1166895,
+  "migration_perc": -0.0056128600337573,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "Blend",
+  "capitalCity": "Islamabad",
+  "longitude": 72.8,
+  "latitude": 30.5167
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6c7"
+  },
+  "country": "Pakistan",
+  "year": 2012,
+  "population": 187281475,
+  "pop_density": 242.945043327107,
+  "net_migration": -1079167,
+  "migration_perc": -0.0057622730705212,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "Blend",
+  "capitalCity": "Islamabad",
+  "longitude": 72.8,
+  "latitude": 30.5167
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6c8"
+  },
+  "country": "Pakistan",
+  "year": 2007,
+  "population": 167808105,
+  "pop_density": 217.683822384807,
+  "net_migration": -339805,
+  "migration_perc": -0.0020249617859637,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "Blend",
+  "capitalCity": "Islamabad",
+  "longitude": 72.8,
+  "latitude": 30.5167
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6c9"
+  },
+  "country": "Pakistan",
+  "year": 2002,
+  "population": 149549700,
+  "pop_density": 193.998676836862,
+  "net_migration": -650182,
+  "migration_perc": -0.0043475981563319,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "Blend",
+  "capitalCity": "Islamabad",
+  "longitude": 72.8,
+  "latitude": 30.5167
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ca"
+  },
+  "country": "Pakistan",
+  "year": 1997,
+  "population": 131057431,
+  "pop_density": 170.010158520133,
+  "net_migration": 470909,
+  "migration_perc": 0.0035931499374499,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "Blend",
+  "capitalCity": "Islamabad",
+  "longitude": 72.8,
+  "latitude": 30.5167
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6cb"
+  },
+  "country": "Pakistan",
+  "year": 1992,
+  "population": 113911126,
+  "pop_density": 147.767649958489,
+  "net_migration": -1023387,
+  "migration_perc": -0.0089840829068795,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "Blend",
+  "capitalCity": "Islamabad",
+  "longitude": 72.8,
+  "latitude": 30.5167
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6cc"
+  },
+  "country": "Pakistan",
+  "year": 1987,
+  "population": 98285755,
+  "pop_density": 127.498125518888,
+  "net_migration": 139790,
+  "migration_perc": 0.0014222813875723,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "Blend",
+  "capitalCity": "Islamabad",
+  "longitude": 72.8,
+  "latitude": 30.5167
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6cd"
+  },
+  "country": "Pakistan",
+  "year": 1982,
+  "population": 83431605,
+  "pop_density": 108.229043430884,
+  "net_migration": 1387118,
+  "migration_perc": 0.0166258098474792,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "Blend",
+  "capitalCity": "Islamabad",
+  "longitude": 72.8,
+  "latitude": 30.5167
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ce"
+  },
+  "country": "Pakistan",
+  "year": 1977,
+  "population": 70958169,
+  "pop_density": 92.0482682129514,
+  "net_migration": 672203,
+  "migration_perc": 0.0094732292204439,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "Blend",
+  "capitalCity": "Islamabad",
+  "longitude": 72.8,
+  "latitude": 30.5167
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6cf"
+  },
+  "country": "Pakistan",
+  "year": 1972,
+  "population": 61381987,
+  "pop_density": 79.6258652449149,
+  "net_migration": -138106,
+  "migration_perc": -0.0022499434565388,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "Blend",
+  "capitalCity": "Islamabad",
+  "longitude": 72.8,
+  "latitude": 30.5167
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6d0"
+  },
+  "country": "Pakistan",
+  "year": 1967,
+  "population": 53655789,
+  "pop_density": 69.6032962328767,
+  "net_migration": -209978,
+  "migration_perc": -0.0039134267506531,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "Blend",
+  "capitalCity": "Islamabad",
+  "longitude": 72.8,
+  "latitude": 30.5167
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6d1"
+  },
+  "country": "Pakistan",
+  "year": 1962,
+  "population": 47198878,
+  "pop_density": 61.2272701328352,
+  "net_migration": -93268,
+  "migration_perc": -0.0019760639225364,
+  "region": "South Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "Blend",
+  "capitalCity": "Islamabad",
+  "longitude": 72.8,
+  "latitude": 30.5167
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6d2"
+  },
+  "country": "Philippines",
+  "year": 2017,
+  "population": 105173264,
+  "pop_density": 352.72919475467,
+  "net_migration": -335758,
+  "migration_perc": -0.003192427307381,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Manila",
+  "longitude": 121.035,
+  "latitude": 14.5515
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6d3"
+  },
+  "country": "Philippines",
+  "year": 2012,
+  "population": 97212638,
+  "pop_density": 326.03091524969,
+  "net_migration": -834619,
+  "migration_perc": -0.0085854989348195,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Manila",
+  "longitude": 121.035,
+  "latitude": 14.5515
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6d4"
+  },
+  "country": "Philippines",
+  "year": 2007,
+  "population": 89405482,
+  "pop_density": 299.847342120267,
+  "net_migration": -1548077,
+  "migration_perc": -0.0173152357704419,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Manila",
+  "longitude": 121.035,
+  "latitude": 14.5515
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6d5"
+  },
+  "country": "Philippines",
+  "year": 2002,
+  "population": 81365258,
+  "pop_density": 272.882107522554,
+  "net_migration": -1244356,
+  "migration_perc": -0.015293456084168,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Manila",
+  "longitude": 121.035,
+  "latitude": 14.5515
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6d6"
+  },
+  "country": "Philippines",
+  "year": 1997,
+  "population": 73030884,
+  "pop_density": 244.930355166516,
+  "net_migration": -949346,
+  "migration_perc": -0.012999240157082,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Manila",
+  "longitude": 121.035,
+  "latitude": 14.5515
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6d7"
+  },
+  "country": "Philippines",
+  "year": 1992,
+  "population": 65020116,
+  "pop_density": 218.063909850086,
+  "net_migration": -698877,
+  "migration_perc": -0.0107486273940206,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Manila",
+  "longitude": 121.035,
+  "latitude": 14.5515
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6d8"
+  },
+  "country": "Philippines",
+  "year": 1987,
+  "population": 57263836,
+  "pop_density": 192.050964215045,
+  "net_migration": -314676,
+  "migration_perc": -0.0054951959557861,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Manila",
+  "longitude": 121.035,
+  "latitude": 14.5515
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6d9"
+  },
+  "country": "Philippines",
+  "year": 1982,
+  "population": 50023563,
+  "pop_density": 167.768598450548,
+  "net_migration": -292444,
+  "migration_perc": -0.0058461249551536,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Manila",
+  "longitude": 121.035,
+  "latitude": 14.5515
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6da"
+  },
+  "country": "Philippines",
+  "year": 1977,
+  "population": 43629412,
+  "pop_density": 146.323949424825,
+  "net_migration": -476561,
+  "migration_perc": -0.0109229296970584,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Manila",
+  "longitude": 121.035,
+  "latitude": 14.5515
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6db"
+  },
+  "country": "Philippines",
+  "year": 1972,
+  "population": 37923396,
+  "pop_density": 127.148782941058,
+  "net_migration": -375090,
+  "migration_perc": -0.0098907281404861,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Manila",
+  "longitude": 121.035,
+  "latitude": 14.5515
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6dc"
+  },
+  "country": "Philippines",
+  "year": 1967,
+  "population": 32823968,
+  "pop_density": 110.051525514652,
+  "net_migration": -470430,
+  "migration_perc": -0.0143319052711725,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Manila",
+  "longitude": 121.035,
+  "latitude": 14.5515
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6dd"
+  },
+  "country": "Philippines",
+  "year": 1962,
+  "population": 28077339,
+  "pop_density": 94.137125326896,
+  "net_migration": -218063,
+  "migration_perc": -0.0077665123464869,
+  "region": "East Asia & Pacific",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Manila",
+  "longitude": 121.035,
+  "latitude": 14.5515
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6de"
+  },
+  "country": "Poland",
+  "year": 2017,
+  "population": 37974826,
+  "pop_density": 124.0237303635,
+  "net_migration": -146976,
+  "migration_perc": -0.0038703534810139,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "IBRD",
+  "capitalCity": "Warsaw",
+  "longitude": 21.02,
+  "latitude": 52.26
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6df"
+  },
+  "country": "Poland",
+  "year": 2012,
+  "population": 38063164,
+  "pop_density": 124.300058781268,
+  "net_migration": -320806,
+  "migration_perc": -0.0084282536259991,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "IBRD",
+  "capitalCity": "Warsaw",
+  "longitude": 21.02,
+  "latitude": 52.26
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6e0"
+  },
+  "country": "Poland",
+  "year": 2007,
+  "population": 38120560,
+  "pop_density": 124.44685296422,
+  "net_migration": -178456,
+  "migration_perc": -0.0046813583011372,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "IBRD",
+  "capitalCity": "Warsaw",
+  "longitude": 21.02,
+  "latitude": 52.26
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6e1"
+  },
+  "country": "Poland",
+  "year": 2002,
+  "population": 38230364,
+  "pop_density": 124.81753893369,
+  "net_migration": -183471,
+  "migration_perc": -0.0047990911098832,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "IBRD",
+  "capitalCity": "Warsaw",
+  "longitude": 21.02,
+  "latitude": 52.26
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6e2"
+  },
+  "country": "Poland",
+  "year": 1997,
+  "population": 38649660,
+  "pop_density": 126.186489927846,
+  "net_migration": -85199,
+  "migration_perc": -0.0022043919661906,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "IBRD",
+  "capitalCity": "Warsaw",
+  "longitude": 21.02,
+  "latitude": 52.26
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6e3"
+  },
+  "country": "Poland",
+  "year": 1992,
+  "population": 38363667,
+  "pop_density": 125.252757190898,
+  "net_migration": -159999,
+  "migration_perc": -0.0041705867168537,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "IBRD",
+  "capitalCity": "Warsaw",
+  "longitude": 21.02,
+  "latitude": 52.26
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6e4"
+  },
+  "country": "Poland",
+  "year": 1987,
+  "population": 37668045,
+  "pop_density": 122.981635051748,
+  "net_migration": -304973,
+  "migration_perc": -0.0080963320501502,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "IBRD",
+  "capitalCity": "Warsaw",
+  "longitude": 21.02,
+  "latitude": 52.26
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6e5"
+  },
+  "country": "Poland",
+  "year": 1982,
+  "population": 36230481,
+  "pop_density": 118.288161546247,
+  "net_migration": -119193,
+  "migration_perc": -0.0032898541976298,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "IBRD",
+  "capitalCity": "Warsaw",
+  "longitude": 21.02,
+  "latitude": 52.26
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6e6"
+  },
+  "country": "Poland",
+  "year": 1977,
+  "population": 34689050,
+  "pop_density": 113.255574782069,
+  "net_migration": -106595,
+  "migration_perc": -0.003072871698706,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "IBRD",
+  "capitalCity": "Warsaw",
+  "longitude": 21.02,
+  "latitude": 52.26
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6e7"
+  },
+  "country": "Poland",
+  "year": 1972,
+  "population": 33055650,
+  "pop_density": 107.922720297757,
+  "net_migration": -170903,
+  "migration_perc": -0.0051701600180302,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "IBRD",
+  "capitalCity": "Warsaw",
+  "longitude": 21.02,
+  "latitude": 52.26
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6e8"
+  },
+  "country": "Poland",
+  "year": 1967,
+  "population": 31987155,
+  "pop_density": 104.434212674263,
+  "net_migration": -143114,
+  "migration_perc": -0.004474108435089,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "IBRD",
+  "capitalCity": "Warsaw",
+  "longitude": 21.02,
+  "latitude": 52.26
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6e9"
+  },
+  "country": "Poland",
+  "year": 1962,
+  "population": 30308500,
+  "pop_density": 98.9536060596167,
+  "net_migration": -62544,
+  "migration_perc": -0.0020635795238959,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "IBRD",
+  "capitalCity": "Warsaw",
+  "longitude": 21.02,
+  "latitude": 52.26
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ea"
+  },
+  "country": "Russian Federation",
+  "year": 2017,
+  "population": 144496740,
+  "pop_density": 8.82322079860193,
+  "net_migration": 912279,
+  "migration_perc": 0.0063134919168418,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Moscow",
+  "longitude": 37.6176,
+  "latitude": 55.7558
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6eb"
+  },
+  "country": "Russian Federation",
+  "year": 2012,
+  "population": 143201676,
+  "pop_density": 8.74414195142295,
+  "net_migration": 1800600,
+  "migration_perc": 0.0125738751828574,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Moscow",
+  "longitude": 37.6176,
+  "latitude": 55.7558
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ec"
+  },
+  "country": "Russian Federation",
+  "year": 2007,
+  "population": 142805088,
+  "pop_density": 8.71946239224704,
+  "net_migration": 2326672,
+  "migration_perc": 0.0162926407776171,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Moscow",
+  "longitude": 37.6176,
+  "latitude": 55.7558
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ed"
+  },
+  "country": "Russian Federation",
+  "year": 2002,
+  "population": 145306046,
+  "pop_density": 8.87043393114192,
+  "net_migration": 1778101,
+  "migration_perc": 0.0122369374774673,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Moscow",
+  "longitude": 37.6176,
+  "latitude": 55.7558
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ee"
+  },
+  "country": "Russian Federation",
+  "year": 1997,
+  "population": 147915307,
+  "pop_density": 9.03098283436059,
+  "net_migration": 2374657,
+  "migration_perc": 0.016054166726639,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Moscow",
+  "longitude": 37.6176,
+  "latitude": 55.7558
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ef"
+  },
+  "country": "Russian Federation",
+  "year": 1992,
+  "population": 148689000,
+  "pop_density": 9.07196178145754,
+  "net_migration": 2490121,
+  "migration_perc": 0.0167471769935906,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Moscow",
+  "longitude": 37.6176,
+  "latitude": 55.7558
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6f0"
+  },
+  "country": "Russian Federation",
+  "year": 1987,
+  "population": 145908000,
+  "pop_density": 8.90228463174079,
+  "net_migration": 890253,
+  "migration_perc": 0.0061014680483592,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Moscow",
+  "longitude": 37.6176,
+  "latitude": 55.7558
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6f1"
+  },
+  "country": "Russian Federation",
+  "year": 1982,
+  "population": 140823000,
+  "pop_density": 8.59203353274415,
+  "net_migration": 1100559,
+  "migration_perc": 0.0078151935408278,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Moscow",
+  "longitude": 37.6176,
+  "latitude": 55.7558
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6f2"
+  },
+  "country": "Russian Federation",
+  "year": 1977,
+  "population": 136100000,
+  "pop_density": 8.30386913932013,
+  "net_migration": 614394,
+  "migration_perc": 0.0045142836149889,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Moscow",
+  "longitude": 37.6176,
+  "latitude": 55.7558
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6f3"
+  },
+  "country": "Russian Federation",
+  "year": 1972,
+  "population": 131909000,
+  "pop_density": 8.04816366126803,
+  "net_migration": -296861,
+  "migration_perc": -0.0022504984496888,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Moscow",
+  "longitude": 37.6176,
+  "latitude": 55.7558
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6f4"
+  },
+  "country": "Russian Federation",
+  "year": 1967,
+  "population": 128196000,
+  "pop_density": 7.82162239665161,
+  "net_migration": -549722,
+  "migration_perc": -0.0042881369153483,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Moscow",
+  "longitude": 37.6176,
+  "latitude": 55.7558
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6f5"
+  },
+  "country": "Russian Federation",
+  "year": 1962,
+  "population": 122591000,
+  "pop_density": 7.47964453826888,
+  "net_migration": -1387844,
+  "migration_perc": -0.0113209289425814,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Upper middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Moscow",
+  "longitude": 37.6176,
+  "latitude": 55.7558
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6f6"
+  },
+  "country": "Ukraine",
+  "year": 2017,
+  "population": 44831135,
+  "pop_density": 77.389796129745,
+  "net_migration": 50001,
+  "migration_perc": 0.0011153186284487,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Kiev",
+  "longitude": 30.5038,
+  "latitude": 50.4536
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6f7"
+  },
+  "country": "Ukraine",
+  "year": 2012,
+  "population": 45593300,
+  "pop_density": 78.7014085479528,
+  "net_migration": 132154,
+  "migration_perc": 0.0028985399170492,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Kiev",
+  "longitude": 30.5038,
+  "latitude": 50.4536
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6f8"
+  },
+  "country": "Ukraine",
+  "year": 2007,
+  "population": 46509350,
+  "pop_density": 80.2812731948976,
+  "net_migration": 269541,
+  "migration_perc": 0.0057954153304658,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Kiev",
+  "longitude": 30.5038,
+  "latitude": 50.4536
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6f9"
+  },
+  "country": "Ukraine",
+  "year": 2002,
+  "population": 48202500,
+  "pop_density": 83.2024372561881,
+  "net_migration": -165445,
+  "migration_perc": -0.0034322908562833,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Kiev",
+  "longitude": 30.5038,
+  "latitude": 50.4536
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6fa"
+  },
+  "country": "Ukraine",
+  "year": 1997,
+  "population": 50594105,
+  "pop_density": 87.329084318633,
+  "net_migration": -462264,
+  "migration_perc": -0.0091367166194559,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Kiev",
+  "longitude": 30.5038,
+  "latitude": 50.4536
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6fb"
+  },
+  "country": "Ukraine",
+  "year": 1992,
+  "population": 52150266,
+  "pop_density": 90.0151307499784,
+  "net_migration": 74421,
+  "migration_perc": 0.0014270492886843,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Kiev",
+  "longitude": 30.5038,
+  "latitude": 50.4536
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6fc"
+  },
+  "country": "Ukraine",
+  "year": 1987,
+  "population": 51293000,
+  "pop_density": 88.5354276344179,
+  "net_migration": 0,
+  "migration_perc": 0,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Kiev",
+  "longitude": 30.5038,
+  "latitude": 50.4536
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6fd"
+  },
+  "country": "Ukraine",
+  "year": 1982,
+  "population": 50384000,
+  "pop_density": 86.9664278933287,
+  "net_migration": 189092,
+  "migration_perc": 0.0037530168307399,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Kiev",
+  "longitude": 30.5038,
+  "latitude": 50.4536
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6fe"
+  },
+  "country": "Ukraine",
+  "year": 1977,
+  "population": 49287127,
+  "pop_density": 85.0731457668076,
+  "net_migration": 104383,
+  "migration_perc": 0.0021178552363175,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Kiev",
+  "longitude": 30.5038,
+  "latitude": 50.4536
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac6ff"
+  },
+  "country": "Ukraine",
+  "year": 1972,
+  "population": 47783005,
+  "pop_density": 82.4769224130491,
+  "net_migration": 206203,
+  "migration_perc": 0.0043154046088143,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Kiev",
+  "longitude": 30.5038,
+  "latitude": 50.4536
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac700"
+  },
+  "country": "Ukraine",
+  "year": 1967,
+  "population": 46063228,
+  "pop_density": 79.5084629325969,
+  "net_migration": 268767,
+  "migration_perc": 0.0058347408913678,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Kiev",
+  "longitude": 30.5038,
+  "latitude": 50.4536
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac701"
+  },
+  "country": "Ukraine",
+  "year": 1962,
+  "population": 43752230,
+  "pop_density": 75.5195132476051,
+  "net_migration": 455769,
+  "migration_perc": 0.0104170461711323,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "Lower middle income",
+  "lendingType": "IBRD",
+  "capitalCity": "Kiev",
+  "longitude": 30.5038,
+  "latitude": 50.4536
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac702"
+  },
+  "country": "United Kingdom",
+  "year": 2017,
+  "population": 66058859,
+  "pop_density": 273.049472988054,
+  "net_migration": 1303250,
+  "migration_perc": 0.0197286180798248,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "Not classified",
+  "capitalCity": "London",
+  "longitude": -0.126236,
+  "latitude": 51.5002
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac703"
+  },
+  "country": "United Kingdom",
+  "year": 2012,
+  "population": 63700300,
+  "pop_density": 263.30054147894,
+  "net_migration": 1300231,
+  "migration_perc": 0.0204116935085078,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "Not classified",
+  "capitalCity": "London",
+  "longitude": -0.126236,
+  "latitude": 51.5002
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac704"
+  },
+  "country": "United Kingdom",
+  "year": 2007,
+  "population": 61322463,
+  "pop_density": 253.471925763651,
+  "net_migration": 2189404,
+  "migration_perc": 0.0357031321458826,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "Not classified",
+  "capitalCity": "London",
+  "longitude": -0.126236,
+  "latitude": 51.5002
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac705"
+  },
+  "country": "United Kingdom",
+  "year": 2002,
+  "population": 59370479,
+  "pop_density": 245.40354234696,
+  "net_migration": 992223,
+  "migration_perc": 0.0167123967451904,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "Not classified",
+  "capitalCity": "London",
+  "longitude": -0.126236,
+  "latitude": 51.5002
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac706"
+  },
+  "country": "United Kingdom",
+  "year": 1997,
+  "population": 58316954,
+  "pop_density": 241.048873641136,
+  "net_migration": 513361,
+  "migration_perc": 0.0088029460523606,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "Not classified",
+  "capitalCity": "London",
+  "longitude": -0.126236,
+  "latitude": 51.5002
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac707"
+  },
+  "country": "United Kingdom",
+  "year": 1992,
+  "population": 57580402,
+  "pop_density": 238.0043896995,
+  "net_migration": 205443,
+  "migration_perc": 0.0035679327143287,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "Not classified",
+  "capitalCity": "London",
+  "longitude": -0.126236,
+  "latitude": 51.5002
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac708"
+  },
+  "country": "United Kingdom",
+  "year": 1987,
+  "population": 56802050,
+  "pop_density": 234.787128508246,
+  "net_migration": 98758,
+  "migration_perc": 0.0017386344330882,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "Not classified",
+  "capitalCity": "London",
+  "longitude": -0.126236,
+  "latitude": 51.5002
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac709"
+  },
+  "country": "United Kingdom",
+  "year": 1982,
+  "population": 56313641,
+  "pop_density": 232.768325548712,
+  "net_migration": -97495,
+  "migration_perc": -0.0017312856755257,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "Not classified",
+  "capitalCity": "London",
+  "longitude": -0.126236,
+  "latitude": 51.5002
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac70a"
+  },
+  "country": "United Kingdom",
+  "year": 1977,
+  "population": 56193492,
+  "pop_density": 232.271698425164,
+  "net_migration": 39119,
+  "migration_perc": 0.0006961482301188,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "Not classified",
+  "capitalCity": "London",
+  "longitude": -0.126236,
+  "latitude": 51.5002
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac70b"
+  },
+  "country": "United Kingdom",
+  "year": 1972,
+  "population": 56086065,
+  "pop_density": 231.82765676022,
+  "net_migration": 106415,
+  "migration_perc": 0.0018973518644961,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "Not classified",
+  "capitalCity": "London",
+  "longitude": -0.126236,
+  "latitude": 51.5002
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac70c"
+  },
+  "country": "United Kingdom",
+  "year": 1967,
+  "population": 54943600,
+  "pop_density": 227.105361054851,
+  "net_migration": -84853,
+  "migration_perc": -0.0015443654947983,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "Not classified",
+  "capitalCity": "London",
+  "longitude": -0.126236,
+  "latitude": 51.5002
+},
+{
+  "_id": {
+    "$oid": "678c0ca544595cfdd3dac70d"
+  },
+  "country": "United Kingdom",
+  "year": 1962,
+  "population": 53250000,
+  "pop_density": 220.104989046418,
+  "net_migration": 143068,
+  "migration_perc": 0.0026867230046948,
+  "region": "Europe & Central Asia",
+  "incomeLevel": "High income",
+  "lendingType": "Not classified",
+  "capitalCity": "London",
+  "longitude": -0.126236,
+  "latitude": 51.5002
+}]

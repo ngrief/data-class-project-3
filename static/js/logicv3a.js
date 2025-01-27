@@ -255,3 +255,4 @@ document.getElementById('yearSelect').addEventListener('change', function() {
   const selectedYear = this.value;
   loadPopulationDensity(selectedYear);
 });
+

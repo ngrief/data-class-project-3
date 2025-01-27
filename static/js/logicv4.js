@@ -52,7 +52,7 @@ fetch('resources/data_files/migration_data.json')
       let country = item.country;
       let year = item.year;
       // Multiply migration_perc by 1000 to get net migration rate and round
-      let migration_perc = Math.round(((item.migration_perc*1000) + Number.EPSILON) *100)/100; 
+      let migration_perc = Math.round(((item.migration_perc*300) + Number.EPSILON) *100)/100; 
        
       // Check for null values and provide default values
       if (lat == null || long == null) {
