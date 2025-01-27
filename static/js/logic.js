@@ -103,3 +103,4 @@ function markerSize(migrationPercentage) {
         console.error('Error loading the data:', error);
     });
     
+    

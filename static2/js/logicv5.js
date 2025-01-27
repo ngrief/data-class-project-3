@@ -198,3 +198,4 @@ fetch('static2/data/migration_data.json')
         populateUniversalCountryKey(countries, datasets, [netMigrationChart, totalPopulationChart, populationDensityChart]);
     })
     .catch(error => console.error('Error fetching or rendering data:', error));
+    
