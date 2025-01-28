@@ -102,6 +102,10 @@ A slight tendency exists where countries with higher populations have lower net 
 
 ![Population Distribution by Country in 2017](/resources/Images/Population_Distribution_by_Country_in_2017.png) 
 
+# Instructions
+
+To run the Leaflet Map, use **index.html** and **logicv3a.js**.
+
 # Ethical Considerations
 The World Bank terms of use allow for copying, distributing, adapting, displaying or including their data for commercial and noncommercial use at no cost under a Creative Commons Attribution 4.0 International License. Certain agreements are expected, including, clear attribution to World Bank and particular dataset name or source (if known).
 
