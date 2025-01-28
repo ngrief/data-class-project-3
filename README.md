@@ -77,9 +77,7 @@ A slight tendency exists where countries with higher populations have lower net 
 
 ![Population Distribution by Country in 2017](/resources/Images/Population_Distribution_by_Country_in_2017.png) 
 
-
-
-
+**Net Migration/Population Line Graphs**
 # Instructions 
 <ins> Leaflet Map: Net Migration and Population Densit </ins>
 1. Clone the repo.
@@ -95,7 +93,7 @@ A slight tendency exists where countries with higher populations have lower net 
 ### 1. Net Migration (1962-2017)
 **Description:** Displays net migration trends for selected countries.
 
-![Net Migration](Images/Net_Migration_.png)
+![Net Migration](Images/Net_Migration.png)
 
 ### 2. Population Density (1962-2017)
 **Description:** Shows changes in population density (people per square kilometer) for selected countries.
@@ -105,7 +103,7 @@ A slight tendency exists where countries with higher populations have lower net 
 ### 3. Total Population (1962-2017)
 **Description:** Visualizes total population growth over time for selected countries.
 
-![Total Population](Images/Total_Populaton.png)
+![Total Population](Images/Total_Population.png)
 
 ## How to Use
 
