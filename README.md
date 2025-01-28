@@ -36,48 +36,24 @@ Note: Our original dataset did not multiply the migration percentage by 1,000 (t
   5. Loaded into MongoDB
 
 ## Results
-<ins> Leaflet Map: Net Migration and Population Density </ins>
 
-Overview
+### <ins> Leaflet Map: Net Migration and Population Density </ins>
+
+### 1. Overview
 
 ![Leaflet View1](Images/Leaflet_Map1.png)
 
-Net Migration Rates (Circle Markers)
+### 2. Net Migration Rates (Circle Markers)
 - United Kingdom, 2007
 
 ![Leaflet View1](Images/Leaflet_Map2.png)
 
-Population Density (Choropleth and Tooltips)
+### 3.  Population Density (Choropleth and Tooltips)
 - Bangladesh, 2017
 
 ![Leaflet View1](Images/Leaflet_Map3.png)
 
-- Dashboards
-
-- Net Migration By Country Bar Charts
-Top10 Countries 
-
- ![Net_migration by Country between 1960-2018](/resources/Images/net_migration_by_country_bar_charts.png)
-
-- Scatter Plots Between Net Migration and Population 
-Top10 Countries 
-
-- Correlation Between Net Migration and Population 
-
-The correlation between net migration and populaton is approximately -0.3121, r < 0: Negative correlation (as one variable increases, the other tends to decrease).
-A slight tendency exists where countries with higher populations have lower net migration. Countries with large populations might experience less net migration relative to smaller countries. However, this relationship is weak, so it's not a consistent trend.
-
-![Scatter Plot of Population-Net Migration](/resources/Images/net_migration_population_scatter_plot_line_equation.png)
-
--  Heatmap of Migration Percentage by Country for 2017
-
-![Heatmap of Migration Percentage by Country for 2017](/resources/Images/Heatmap_of_Migration_Percentage_by_Country_for_2017.png)
-
-- Population Distribution by Country in 2017 for Top10countries 
-
-![Population Distribution by Country in 2017](/resources/Images/Population_Distribution_by_Country_in_2017.png) 
-
-**Net Migration/Population Line Graphs**
+### <ins> Charts.js: Net Migration and Population Density Line Graphs </ins>
 
 ### 1. Net Migration (1962-2017)
 **Description:** Displays net migration trends for selected countries.
@@ -93,6 +69,28 @@ A slight tendency exists where countries with higher populations have lower net 
 **Description:** Visualizes total population growth over time for selected countries.
 
 ![Total Population](Images/Total_Population.png)
+
+### <ins> Python: Net Migration and Population Density Graphs </ins>
+
+### 1. Net Migration by Country, Bar Charts
+ ![Net_migration by Country between 1960-2018](/resources/Images/net_migration_by_country_bar_charts.png)
+
+### 2. Scatter Plots Between Net Migration and Population 
+
+- Correlation Between Net Migration and Population 
+
+The correlation between net migration and populaton is approximately -0.3121, r < 0: Negative correlation (as one variable increases, the other tends to decrease).
+A slight tendency exists where countries with higher populations have lower net migration. Countries with large populations might experience less net migration relative to smaller countries. However, this relationship is weak, so it's not a consistent trend.
+
+![Scatter Plot of Population-Net Migration](/resources/Images/net_migration_population_scatter_plot_line_equation.png)
+
+### 3. Heatmap of Migration Percentage by Country for 2017
+
+![Heatmap of Migration Percentage by Country for 2017](/resources/Images/Heatmap_of_Migration_Percentage_by_Country_for_2017.png)
+
+### 4. Population Distribution by Country in 2017 for Top10countries 
+
+![Population Distribution by Country in 2017](/resources/Images/Population_Distribution_by_Country_in_2017.png) 
 
 # Ethical Considerations
 The World Bank terms of use allow for copying, distributing, adapting, displaying or including their data for commercial and noncommercial use at no cost under a Creative Commons Attribution 4.0 International License. Certain agreements are expected, including, clear attribution to World Bank and particular dataset name or source (if known).
