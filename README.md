@@ -103,7 +103,7 @@ A slight tendency exists where countries with higher populations have lower net 
 ### 3. Total Population (1962-2017)
 **Description:** Visualizes total population growth over time for selected countries.
 
-![Total Population](Images/Total_Population.png)
+![Total Population](Images/Total Population.png)
 
 ## How to Use
 
