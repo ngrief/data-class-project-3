@@ -60,15 +60,25 @@ Note: Our original dataset did not multiply the migration percentage by 1,000 (t
 
 ![Net Migration](Images/Net_Migration.png)
 
+- 1972 shows a dramatic negative spike in Bangladesh with simultaneous positive spike in India.  
+- High positive net migration includes Russia and United Kingdom. 
+- High negative net migration data in Bangladesh, Mexico, abnd India.
+- From 2007 onward Mexico had close to neutral net migration. 
+
 ### 2. Population Density (1962-2017)
 **Description:** Shows changes in population density (people per square kilometer) for selected countries.
 
 ![Population Density](Images/Population_Density.png)
 
+- Population density is increasing most rapdidly in Bangladesh.
+- Population is climbing in India, Phillipines, and Pakistan.   
+
 ### 3. Total Population (1962-2017)
 **Description:** Visualizes total population growth over time for selected countries.
 
 ![Total Population](Images/Total_Population.png)
+- China and India have the most total population of these countries. 
+
 
 ### <ins> Python: Net Migration and Population Density Graphs </ins>
 
