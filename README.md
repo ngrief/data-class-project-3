@@ -78,17 +78,6 @@ A slight tendency exists where countries with higher populations have lower net 
 ![Population Distribution by Country in 2017](/resources/Images/Population_Distribution_by_Country_in_2017.png) 
 
 **Net Migration/Population Line Graphs**
-# Instructions 
-<ins> Leaflet Map: Net Migration and Population Densit </ins>
-1. Clone the repo.
-2. Open index.html and logicv3a.js.
-3. For migration data, click on various ring markers to show net migration rates for a given country.
-4. For population density data, use the dropdown menu to select every 10 years from 1967-2017.
-
-<ins> Net Migration Charts </ins>
-1. Clone the repo.
-2. Open index2.html and logicv5.js
-3. OR open [GitHub Pages Link](Link name here)
 
 ### 1. Net Migration (1962-2017)
 **Description:** Displays net migration trends for selected countries.
@@ -103,13 +92,7 @@ A slight tendency exists where countries with higher populations have lower net 
 ### 3. Total Population (1962-2017)
 **Description:** Visualizes total population growth over time for selected countries.
 
-![Total Population](Images/Total Population.png)
-
-## How to Use
-
-1. Place the image files in the `Images/` directory.
-2. Use the provided HTML file to display the visualizations in a web browser.
-3. Ensure the `src` attribute in the `<img>` tags of the HTML file points to the correct file paths.
+![Total Population](Images/Total_Population.png)
 
 # Ethical Considerations
 The World Bank terms of use allow for copying, distributing, adapting, displaying or including their data for commercial and noncommercial use at no cost under a Creative Commons Attribution 4.0 International License. Certain agreements are expected, including, clear attribution to World Bank and particular dataset name or source (if known).
