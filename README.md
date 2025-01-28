@@ -68,19 +68,24 @@ Population Density (Choropleth and Tooltips)
 
 ### 1. Net Migration (1962-2017)
 **Description:** Displays net migration trends for selected countries.
-- **File Name:** [`Net_Migration_.png`](Images/Net_Migration_.png)
+
+![Net Migration](Images/Net_Migration_.png)
 
 ### 2. Population Density (1962-2017)
 **Description:** Shows changes in population density (people per square kilometer) for selected countries.
-- **File Name:** [`Population_Density.png`](Images/Population_Density.png)
+
+![Population Density](Images/Population_Density.png)
 
 ### 3. Total Population (1962-2017)
 **Description:** Visualizes total population growth over time for selected countries.
-- **File Name:** [`Total_Populaton.png`](Images/Total_Populaton.png)
 
+![Total Population](Images/Total_Populaton.png)
 
+## How to Use
 
-
+1. Place the image files in the `Images/` directory.
+2. Use the provided HTML file to display the visualizations in a web browser.
+3. Ensure the `src` attribute in the `<img>` tags of the HTML file points to the correct file paths.
 
 # Ethical Considerations
 The World Bank terms of use allow for copying, distributing, adapting, displaying or including their data for commercial and noncommercial use at no cost under a Creative Commons Attribution 4.0 International License. Certain agreements are expected, including, clear attribution to World Bank and particular dataset name or source (if known).
