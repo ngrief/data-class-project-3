@@ -55,7 +55,14 @@ d3.json(countriesGeoJSON).then(function(data) {
 
 // Function to determine marker size based on migration percentage
 function markerSize(migrationPercentage) {
-  return Math.abs(migrationPercentage * 2); 
+  return Math.max(5, Math.abs(migrationPercentage * 2)); 
+}
+
+// Function to slightly offset marker locations
+// ChatGPT suggestion
+function jitterCoordinate(coordinate) {
+  let jitter = Math.random() * 0.0008 - 0.0004; // Jitter between -0.0004 and 0.0004
+  return coordinate + jitter;
 }
 
 // Load the local GeoJSON data for migration percentage
@@ -63,7 +70,7 @@ fetch('static/data/migration_data.json')
   .then(response => response.json())
   .then(migrationData => {
 
-    migrationData.forEach(item => {
+      migrationData.forEach(item => {
       // extract variables
       let lat = item.latitude;
       let long = item.longitude; 
@@ -78,8 +85,12 @@ fetch('static/data/migration_data.json')
         return; // Skip this entry or handle it as needed
         }
         
+      // Add jitter to avoid complete overlap
+      let jitteredLat = jitterCoordinate(lat);
+      let jitteredLong = jitterCoordinate(long);
+
       // Create a circle marker for each feature
-      let marker = L.circleMarker([lat, long], {
+      let marker = L.circleMarker([jitteredLat, jitteredLong], {
         radius: markerSize(migration_perc), // Size based on migration percentage
         fillColor: "green", // Color of the marker
         color: "white",
@@ -255,4 +266,3 @@ document.getElementById('yearSelect').addEventListener('change', function() {
   const selectedYear = this.value;
   loadPopulationDensity(selectedYear);
 });
-
