@@ -105,8 +105,11 @@ A slight tendency exists where countries with higher populations have lower net 
 # Ethical Considerations
 The World Bank terms of use allow for copying, distributing, adapting, displaying or including their data for commercial and noncommercial use at no cost under a Creative Commons Attribution 4.0 International License. Certain agreements are expected, including, clear attribution to World Bank and particular dataset name or source (if known).
 
-# References and Attributions
+# Attributions
 [^1]: [Kaggle Dataset](https://www.kaggle.com/datasets/eliasdabbas/migration-data-worldbank-1960-2018)
 [^2]: [World Migration Report](https://worldmigrationreport.iom.int/what-we-do/world-migration-report-2024-chapter-4/who-migrates-internationally-and-where-do-they-go-international-migration-globally-between-1995-2020)
 [^3]: [(Census.gov)](https://www.census.gov/glossary/?term=Net+migration+rate)
 [^4]: [(Wikipedia)](https://en.wikipedia.org/wiki/Net_migration_rate#:~:text=The%20net%20migration%20rate%20is,positive%20net%20migration%20rate%20occurs.)
+
+# Additional Resources
+- https://www.migrationpolicy.org/article/united-kingdom-reluctant-country-immigration
