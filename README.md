@@ -95,9 +95,9 @@ A slight tendency exists where countries with higher populations have lower net 
 
 ![Scatter Plot of Population-Net Migration](/resources/Images/net_migration_population_scatter_plot_line_equation.png)
 
-### 3. Heatmap of Migration Percentage by Country for 2017
+### 3. Heatmap of Migration Percentage by Country Between (2007-2017)
 
-![Heatmap of Migration Percentage by Country for 2017](/resources/Images/Heatmap_of_Migration_Percentage_by_Country_for_2017.png)
+![Heatmap of Average Migration Percentage by Country (2007-2017)](/resources/Images/Heatmap_of_Migration_Percentage_by_Country_decade.png)
 
 ### <ins> Python: Seaborn Plots
 ### 1. Net Migration by Country
