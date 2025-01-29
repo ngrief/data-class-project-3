@@ -99,6 +99,18 @@ A slight tendency exists where countries with higher populations have lower net 
 
 ![Heatmap of Migration Percentage by Country for 2017](/resources/Images/Heatmap_of_Migration_Percentage_by_Country_for_2017.png)
 
+### <ins> Python: Seaborn Plots
+### 1. Net Migration by Country
+
+![Net Migration by Country Boxplot](/resources/Images/Net_Migrationby_Country.png)
+
+### 2. Net Migration by Income Level and Country
+
+![Net Migration by Income Level and Country](Relation_plot_between_Income_Level_and_Net_Migration.png)
+- Correlation of .20 with p-value of 6.9x10^-22
+- Shows connection between migration and hope for better pay by moving from a country of lower income to higher income.
+- Net migration appears to be varied likely due to some migrating in from lower income areas and some moving out to areas of higher income.
+
 # Instructions
 
 - To run the Leaflet Map, use **index.html** and **logicv3a.js**.
