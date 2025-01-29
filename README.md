@@ -104,7 +104,7 @@ A slight tendency exists where countries with higher populations have lower net 
 - To run the Leaflet Map, use **index.html** and **logicv3a.js**.
 - To run the Charts.js page, use **index2.html** and **logicv5.js**.
 - Python charts are in Jupyter Notebook file.
-- Box plots are in the Slides file. 
+- Box plots are in the Population_Project_PDF file. 
 
 
 # Ethical Considerations
