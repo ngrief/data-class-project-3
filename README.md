@@ -99,10 +99,6 @@ A slight tendency exists where countries with higher populations have lower net 
 
 ![Heatmap of Migration Percentage by Country for 2017](/resources/Images/Heatmap_of_Migration_Percentage_by_Country_for_2017.png)
 
-### 4. Population Distribution by Country in 2017 for Top10countries 
-
-![Population Distribution by Country in 2017](/resources/Images/Population_Distribution_by_Country_in_2017.png) 
-
 # Instructions
 
 - To run the Leaflet Map, use **index.html** and **logicv3a.js**.
