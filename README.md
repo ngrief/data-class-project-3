@@ -102,11 +102,11 @@ A slight tendency exists where countries with higher populations have lower net 
 ### <ins> Python: Seaborn Plots
 ### 1. Net Migration by Country
 
-![Net Migration by Country Boxplot](/resources/Images/Net_Migration_by_Country.png)
+![Net Migration by Country Boxplot](/Images/Net_Migration_by_Country.png)
 
 ### 2. Net Migration by Income Level and Country
 
-![Net Migration by Income Level and Country Relation Plot](/resources/Images/Relation_plot_between_Income_Level_and_Net_Migration.png)
+![Net Migration by Income Level and Country Relation Plot](/Images/Relation_plot_between_Income_Level_and_Net_Migration.png)
 - Correlation of .20 with p-value of 6.9x10^-22
 - Shows connection between migration and hope for better pay by moving from a country of lower income to higher income.
 - Net migration appears to be varied likely due to some migrating in from lower income areas and some moving out to areas of higher income.
